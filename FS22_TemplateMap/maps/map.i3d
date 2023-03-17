@@ -345,9 +345,12 @@
   </Dynamics>
 
   <Scene>
-      <Camera name="persp" translation="-55.5335 1018.73 670.545" rotation="-54.9327 -4.92766 -4.04068e-05" visibility="false" nodeId="11" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
-      <Light name="sun" translation="0 400 0" rotation="-35.393 51.396 20.805" objectMask="67043328" nodeId="12" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.0005" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" pcssLightSize="50" pcssLightDistance="50" pcssDepthBiasFactor="1" pcssMaxPenumbraSize="1" shadowPerspective="true" numShadowMapSplits="5" shadowMapSplitDistance0="20.7462" shadowMapSplitDistance1="46.4883" shadowMapSplitDistance2="120" shadowMapSplitDistance3="314" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
-      <TerrainTransformGroup name="terrain" static="true" collisionMask="524255" nodeId="14" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="2048" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occLevel="1" occFaceCount="100" occMaxHausdorffDistance="10" occMaxHausdorffDistanceExtra="10" occMinHorizontalDistance="1" occDistanceWeight="1">
+      <Light name="sun" translation="0 400 0" rotation="-35.393 51.396 20.805" objectMask="67043328" nodeId="11" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.0005" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" pcssLightSize="50" pcssLightDistance="50" pcssDepthBiasFactor="1" pcssMaxPenumbraSize="1" shadowPerspective="true" numShadowMapSplits="5" shadowMapSplitDistance0="20.7462" shadowMapSplitDistance1="46.4883" shadowMapSplitDistance2="120" shadowMapSplitDistance3="314" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
+      <TransformGroup name="cameras" visibility="false" nodeId="12">
+        <Camera name="Landscaping" translation="-0.216 691.539 -4.31425" rotation="-62.9544 2.86456 0" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
+        <Camera name="PDA" translation="0 700 0" rotation="-90 0 0" nodeId="14" fov="60" nearClip="100" farClip="900" orthographic="true" orthographicHeight="2100"/>
+      </TransformGroup>
+      <TerrainTransformGroup name="terrain" static="true" collisionMask="524255" nodeId="16" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="2048" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occLevel="1" occFaceCount="100" occMaxHausdorffDistance="10" occMaxHausdorffDistanceExtra="10" occMinHorizontalDistance="1" occDistanceWeight="1">
         <Layers>
           <LayerAttributes>
             <LayerAttribute name="color" type="float_linearRGB" />
@@ -628,42 +631,42 @@
           </FoliageSystem>
         </Layers>
       </TerrainTransformGroup>
-      <TransformGroup name="gameplay" nodeId="537">
-        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="538"/>
-        <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="539">
-          <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="540">
-            <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="541"/>
+      <TransformGroup name="gameplay" nodeId="539">
+        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="540"/>
+        <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="541">
+          <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="542">
+            <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="543"/>
           </TransformGroup>
-          <TransformGroup name="storeSpawnPlace2Start" translation="-10 0 10" nodeId="542">
-            <TransformGroup name="storeSpawnPlace2End" translation="20 0 0" nodeId="543"/>
+          <TransformGroup name="storeSpawnPlace2Start" translation="-10 0 10" nodeId="544">
+            <TransformGroup name="storeSpawnPlace2End" translation="20 0 0" nodeId="545"/>
           </TransformGroup>
-          <Shape shapeId="1" name="vehicleShopTrigger" static="true" trigger="true" collisionMask="3145728" nodeId="544" materialIds="4" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <TransformGroup name="markerIconShopping" nodeId="545">
-              <Shape shapeId="2" name="iconShopping" translation="0 1 0" clipDistance="300" nodeId="546" materialIds="6" castsShadows="true" receiveShadows="true"/>
-              <Light name="pointLight7" translation="0 1 0" clipDistance="100" nodeId="547" type="point" color="0 0.35 0.9" emitDiffuse="true" emitSpecular="true" range="2.5"/>
+          <Shape shapeId="1" name="vehicleShopTrigger" static="true" trigger="true" collisionMask="3145728" nodeId="546" materialIds="4" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <TransformGroup name="markerIconShopping" nodeId="547">
+              <Shape shapeId="2" name="iconShopping" translation="0 1 0" clipDistance="300" nodeId="548" materialIds="6" castsShadows="true" receiveShadows="true"/>
+              <Light name="pointLight7" translation="0 1 0" clipDistance="100" nodeId="549" type="point" color="0 0.35 0.9" emitDiffuse="true" emitSpecular="true" range="2.5"/>
             </TransformGroup>
-            <TransformGroup name="vehicleShopPlayerSpawn" translation="-4 0.8 0" rotation="0 -70 0" nodeId="548"/>
+            <TransformGroup name="vehicleShopPlayerSpawn" translation="-4 0.8 0" rotation="0 -70 0" nodeId="550"/>
           </Shape>
         </TransformGroup>
       </TransformGroup>
   </Scene>
 
   <UserAttributes>
-    <UserAttribute nodeId="12">
+    <UserAttribute nodeId="11">
       <Attribute name="onCreate" type="scriptCallback" value="Environment.onCreateSunLight"/>
     </UserAttribute>
-    <UserAttribute nodeId="538">
-      <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
-    </UserAttribute>
     <UserAttribute nodeId="540">
-      <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
-      <Attribute name="yOffset" type="float" value="0.1"/>
+      <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
     </UserAttribute>
     <UserAttribute nodeId="542">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>
     <UserAttribute nodeId="544">
+      <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
+      <Attribute name="yOffset" type="float" value="0.1"/>
+    </UserAttribute>
+    <UserAttribute nodeId="546">
       <Attribute name="onCreate" type="scriptCallback" value="ShopTrigger.onCreate"/>
     </UserAttribute>
   </UserAttributes>

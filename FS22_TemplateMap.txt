@@ -1,10 +1,11 @@
 Features
 - Create icon and preview pictures
 - Import ingame helpline icons
+- Create camera for PDA Map
 
 
 ToDo
-- Create camera for PDA
+- Improve and delete references to default Giants Mod MapFR
 - Increase farmland limit to 255
 - Import InfoLayer SoilMap for Precision Farming DLC
 - Import script FieldDimension
@@ -44,3 +45,4 @@ Commits
 0005 - Create a clear folder structure (Part 1)
 0006 - Create a clear folder structure (Part 2)
 0007 - Create farmland
+0008 - Create camera for PDA Map
