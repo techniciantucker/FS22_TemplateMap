@@ -37,9 +37,10 @@ Bugs
 - Bugfix: DIRT_DARK_FR texture glows when drawing in Giants Editor
 
 
-Branches
+Commits
 0001 - Create Template Map
 0002 - Update text file
 0003 - Import ingame helpline icons
 0004 - Create icon and preview pictures
 0005 - Create a clear folder structure (Part 1)
+0006 - Create a clear folder structure (Part 2)

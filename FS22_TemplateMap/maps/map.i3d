@@ -226,85 +226,85 @@
     <File fileId="2" filename="$data/shaders/terrainShader.xml"/>
     <File fileId="300" filename="$data/shared/assets/marker/markerIcons_diffuse.png"/>
     <File fileId="295" filename="$data/shared/groundHeightNoise.dds"/>
-    <File fileId="164" filename="data/animalMud01_weight.png"/>
-    <File fileId="167" filename="data/animalMud02_weight.png"/>
-    <File fileId="170" filename="data/animalMud03_weight.png"/>
-    <File fileId="173" filename="data/animalMud04_weight.png"/>
-    <File fileId="176" filename="data/asphalt01_weight.png"/>
-    <File fileId="179" filename="data/asphalt02_weight.png"/>
-    <File fileId="182" filename="data/asphalt03_weight.png"/>
-    <File fileId="185" filename="data/asphalt04_weight.png"/>
-    <File fileId="32" filename="data/cobbleStone01_weight.png"/>
-    <File fileId="35" filename="data/cobbleStone02_weight.png"/>
-    <File fileId="38" filename="data/cobbleStone03_weight.png"/>
-    <File fileId="41" filename="data/cobbleStone04_weight.png"/>
-    <File fileId="104" filename="data/concrete01_weight.png"/>
-    <File fileId="107" filename="data/concrete02_weight.png"/>
-    <File fileId="110" filename="data/concrete03_weight.png"/>
-    <File fileId="113" filename="data/concrete04_weight.png"/>
-    <File fileId="116" filename="data/concreteRubble01_weight.png"/>
-    <File fileId="119" filename="data/concreteRubble02_weight.png"/>
-    <File fileId="122" filename="data/concreteRubble03_weight.png"/>
-    <File fileId="125" filename="data/concreteRubble04_weight.png"/>
-    <File fileId="188" filename="data/concreteTiles01_weight.png"/>
-    <File fileId="191" filename="data/concreteTiles02_weight.png"/>
-    <File fileId="194" filename="data/concreteTiles03_weight.png"/>
-    <File fileId="197" filename="data/concreteTiles04_weight.png"/>
     <File fileId="296" filename="data/densityMap_fruits.gdm"/>
     <File fileId="270" filename="data/densityMap_ground.gdm"/>
     <File fileId="290" filename="data/densityMap_height.gdm"/>
     <File fileId="298" filename="data/densityMap_stones.gdm"/>
     <File fileId="297" filename="data/densityMap_weed.gdm"/>
-    <File fileId="4" filename="data/dirt01_weight.png"/>
-    <File fileId="7" filename="data/dirt02_weight.png"/>
-    <File fileId="10" filename="data/dirt03_weight.png"/>
-    <File fileId="13" filename="data/dirt04_weight.png"/>
-    <File fileId="16" filename="data/dirtDark01_weight.png"/>
-    <File fileId="18" filename="data/dirtDark02_weight.png"/>
-    <File fileId="128" filename="data/forestGround01_weight.png"/>
-    <File fileId="131" filename="data/forestGround02_weight.png"/>
-    <File fileId="134" filename="data/forestGround03_weight.png"/>
-    <File fileId="137" filename="data/forestGround04_weight.png"/>
-    <File fileId="140" filename="data/forestGroundLeaves01_weight.png"/>
-    <File fileId="143" filename="data/forestGroundLeaves02_weight.png"/>
-    <File fileId="146" filename="data/forestGroundLeaves03_weight.png"/>
-    <File fileId="149" filename="data/forestGroundLeaves04_weight.png"/>
-    <File fileId="44" filename="data/grass01_weight.png"/>
-    <File fileId="47" filename="data/grass02_weight.png"/>
-    <File fileId="50" filename="data/grass03_weight.png"/>
-    <File fileId="53" filename="data/grass04_weight.png"/>
-    <File fileId="20" filename="data/grassDirt01_weight.png"/>
-    <File fileId="23" filename="data/grassDirt02_weight.png"/>
-    <File fileId="26" filename="data/grassDirt03_weight.png"/>
-    <File fileId="29" filename="data/grassDirt04_weight.png"/>
-    <File fileId="92" filename="data/gravel01_weight.png"/>
-    <File fileId="95" filename="data/gravel02_weight.png"/>
-    <File fileId="98" filename="data/gravel03_weight.png"/>
-    <File fileId="101" filename="data/gravel04_weight.png"/>
-    <File fileId="152" filename="data/groundBricks01_weight.png"/>
-    <File fileId="155" filename="data/groundBricks02_weight.png"/>
-    <File fileId="158" filename="data/groundBricks03_weight.png"/>
-    <File fileId="161" filename="data/groundBricks04_weight.png"/>
     <File fileId="241" filename="data/infoLayer_farmland.grle"/>
     <File fileId="242" filename="data/infoLayer_indoorMask.grle"/>
     <File fileId="243" filename="data/infoLayer_navigationCollision.grle"/>
     <File fileId="246" filename="data/infoLayer_placementCollisionGenerated.grle"/>
     <File fileId="244" filename="data/infoLayer_tipCollision.grle"/>
     <File fileId="245" filename="data/infoLayer_tipCollisionGenerated.grle"/>
+    <File fileId="164" filename="data/mapHautBeyleron/animalMud01_weight.png"/>
+    <File fileId="167" filename="data/mapHautBeyleron/animalMud02_weight.png"/>
+    <File fileId="170" filename="data/mapHautBeyleron/animalMud03_weight.png"/>
+    <File fileId="173" filename="data/mapHautBeyleron/animalMud04_weight.png"/>
+    <File fileId="176" filename="data/mapHautBeyleron/asphalt01_weight.png"/>
+    <File fileId="179" filename="data/mapHautBeyleron/asphalt02_weight.png"/>
+    <File fileId="182" filename="data/mapHautBeyleron/asphalt03_weight.png"/>
+    <File fileId="185" filename="data/mapHautBeyleron/asphalt04_weight.png"/>
+    <File fileId="32" filename="data/mapHautBeyleron/cobbleStone01_weight.png"/>
+    <File fileId="35" filename="data/mapHautBeyleron/cobbleStone02_weight.png"/>
+    <File fileId="38" filename="data/mapHautBeyleron/cobbleStone03_weight.png"/>
+    <File fileId="41" filename="data/mapHautBeyleron/cobbleStone04_weight.png"/>
+    <File fileId="104" filename="data/mapHautBeyleron/concrete01_weight.png"/>
+    <File fileId="107" filename="data/mapHautBeyleron/concrete02_weight.png"/>
+    <File fileId="110" filename="data/mapHautBeyleron/concrete03_weight.png"/>
+    <File fileId="113" filename="data/mapHautBeyleron/concrete04_weight.png"/>
+    <File fileId="116" filename="data/mapHautBeyleron/concreteRubble01_weight.png"/>
+    <File fileId="119" filename="data/mapHautBeyleron/concreteRubble02_weight.png"/>
+    <File fileId="122" filename="data/mapHautBeyleron/concreteRubble03_weight.png"/>
+    <File fileId="125" filename="data/mapHautBeyleron/concreteRubble04_weight.png"/>
+    <File fileId="188" filename="data/mapHautBeyleron/concreteTiles01_weight.png"/>
+    <File fileId="191" filename="data/mapHautBeyleron/concreteTiles02_weight.png"/>
+    <File fileId="194" filename="data/mapHautBeyleron/concreteTiles03_weight.png"/>
+    <File fileId="197" filename="data/mapHautBeyleron/concreteTiles04_weight.png"/>
+    <File fileId="4" filename="data/mapHautBeyleron/dirt01_weight.png"/>
+    <File fileId="7" filename="data/mapHautBeyleron/dirt02_weight.png"/>
+    <File fileId="10" filename="data/mapHautBeyleron/dirt03_weight.png"/>
+    <File fileId="13" filename="data/mapHautBeyleron/dirt04_weight.png"/>
+    <File fileId="16" filename="data/mapHautBeyleron/dirtDark01_weight.png"/>
+    <File fileId="18" filename="data/mapHautBeyleron/dirtDark02_weight.png"/>
+    <File fileId="128" filename="data/mapHautBeyleron/forestGround01_weight.png"/>
+    <File fileId="131" filename="data/mapHautBeyleron/forestGround02_weight.png"/>
+    <File fileId="134" filename="data/mapHautBeyleron/forestGround03_weight.png"/>
+    <File fileId="137" filename="data/mapHautBeyleron/forestGround04_weight.png"/>
+    <File fileId="140" filename="data/mapHautBeyleron/forestGroundLeaves01_weight.png"/>
+    <File fileId="143" filename="data/mapHautBeyleron/forestGroundLeaves02_weight.png"/>
+    <File fileId="146" filename="data/mapHautBeyleron/forestGroundLeaves03_weight.png"/>
+    <File fileId="149" filename="data/mapHautBeyleron/forestGroundLeaves04_weight.png"/>
+    <File fileId="44" filename="data/mapHautBeyleron/grass01_weight.png"/>
+    <File fileId="47" filename="data/mapHautBeyleron/grass02_weight.png"/>
+    <File fileId="50" filename="data/mapHautBeyleron/grass03_weight.png"/>
+    <File fileId="53" filename="data/mapHautBeyleron/grass04_weight.png"/>
+    <File fileId="20" filename="data/mapHautBeyleron/grassDirt01_weight.png"/>
+    <File fileId="23" filename="data/mapHautBeyleron/grassDirt02_weight.png"/>
+    <File fileId="26" filename="data/mapHautBeyleron/grassDirt03_weight.png"/>
+    <File fileId="29" filename="data/mapHautBeyleron/grassDirt04_weight.png"/>
+    <File fileId="92" filename="data/mapHautBeyleron/gravel01_weight.png"/>
+    <File fileId="95" filename="data/mapHautBeyleron/gravel02_weight.png"/>
+    <File fileId="98" filename="data/mapHautBeyleron/gravel03_weight.png"/>
+    <File fileId="101" filename="data/mapHautBeyleron/gravel04_weight.png"/>
+    <File fileId="152" filename="data/mapHautBeyleron/groundBricks01_weight.png"/>
+    <File fileId="155" filename="data/mapHautBeyleron/groundBricks02_weight.png"/>
+    <File fileId="158" filename="data/mapHautBeyleron/groundBricks03_weight.png"/>
+    <File fileId="161" filename="data/mapHautBeyleron/groundBricks04_weight.png"/>
+    <File fileId="56" filename="data/mapHautBeyleron/mountainRock01_weight.png"/>
+    <File fileId="59" filename="data/mapHautBeyleron/mountainRock02_weight.png"/>
+    <File fileId="62" filename="data/mapHautBeyleron/mountainRock03_weight.png"/>
+    <File fileId="65" filename="data/mapHautBeyleron/mountainRock04_weight.png"/>
+    <File fileId="68" filename="data/mapHautBeyleron/mountainRockDark01_weight.png"/>
+    <File fileId="71" filename="data/mapHautBeyleron/mountainRockDark02_weight.png"/>
+    <File fileId="74" filename="data/mapHautBeyleron/mountainRockDark03_weight.png"/>
+    <File fileId="77" filename="data/mapHautBeyleron/mountainRockDark04_weight.png"/>
+    <File fileId="80" filename="data/mapHautBeyleron/riverMud01_weight.png"/>
+    <File fileId="83" filename="data/mapHautBeyleron/riverMud02_weight.png"/>
+    <File fileId="86" filename="data/mapHautBeyleron/riverMud03_weight.png"/>
+    <File fileId="89" filename="data/mapHautBeyleron/riverMud04_weight.png"/>
+    <File fileId="200" filename="data/mapHautBeyleron/waterPuddle_weight.png"/>
     <File fileId="1" filename="data/map_dem.png"/>
-    <File fileId="56" filename="data/mountainRock01_weight.png"/>
-    <File fileId="59" filename="data/mountainRock02_weight.png"/>
-    <File fileId="62" filename="data/mountainRock03_weight.png"/>
-    <File fileId="65" filename="data/mountainRock04_weight.png"/>
-    <File fileId="68" filename="data/mountainRockDark01_weight.png"/>
-    <File fileId="71" filename="data/mountainRockDark02_weight.png"/>
-    <File fileId="74" filename="data/mountainRockDark03_weight.png"/>
-    <File fileId="77" filename="data/mountainRockDark04_weight.png"/>
-    <File fileId="80" filename="data/riverMud01_weight.png"/>
-    <File fileId="83" filename="data/riverMud02_weight.png"/>
-    <File fileId="86" filename="data/riverMud03_weight.png"/>
-    <File fileId="89" filename="data/riverMud04_weight.png"/>
-    <File fileId="200" filename="data/waterPuddle_weight.png"/>
   </Files>
 
 
