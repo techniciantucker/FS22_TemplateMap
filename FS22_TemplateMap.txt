@@ -1,5 +1,5 @@
 Features
-- 
+- Import ingame helpline icons
 
 ToDo
 - Create a clear folder structure
@@ -25,7 +25,6 @@ ToDo
 - Delete cotton and sugar cane from PDA (Only Immersion, they can still be planted)
 - Import TrainSystem including longer trains and earlier closing of the barriers
 - Create ingame help menu
-- Import ingame helpline icons
 - Create Collectibles
 - Create satellite template map
 
@@ -36,3 +35,4 @@ Bugs
 Branches
 0001 - Create Template Map
 0002 - Update text file
+0003 - Import ingame helpline icons
