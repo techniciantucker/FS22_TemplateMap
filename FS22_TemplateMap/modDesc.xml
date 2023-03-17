@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="67">
+    <author>PowerMaik</author>
+    <version>0.0.0.1</version>
+    <title>
+        <en>Template Map</en>
+        <de>Vorlagenkarte</de>
+    </title>
+    <description>
+        <en><![CDATA[This is a Template Map.]]></en>
+        <de><![CDATA[Dies ist die Vorlage einer Karte.]]></de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="TemplateMap" className="Mission00" filename="$dataS/scripts/missions/mission00.lua" configFilename="maps/mapFR/map.xml" defaultVehiclesXMLFilename="maps/mapFR/vehicles.xml" defaultPlaceablesXMLFilename="maps/mapFR/placeables.xml" defaultItemsXMLFilename="maps/mapFR/items.xml">
+            <title>
+                <en>Template Map</en>
+                <de>Vorlagenkarte</de>
+            </title>
+            <description>
+                <en>This is a Template Map.</en>
+                <de>Dies ist die Vorlage einer Karte.</de>
+            </description>
+            <iconFilename>preview.png</iconFilename>
+        </map>
+    </maps>
+</modDesc>
