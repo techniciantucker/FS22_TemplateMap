@@ -2,5 +2,6 @@
 
 <map>
     <farmlands densityMapFilename="maps/data/infoLayer_farmland.grle" numChannels="6" pricePerHa="60000">
-    </farmlands>
+        <farmland id="1"  	priceScale="1"    npcName="NPC_FR_01"  defaultFarmProperty="true" />
+	</farmlands>
 </map>

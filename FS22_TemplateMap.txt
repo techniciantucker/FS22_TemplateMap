@@ -4,7 +4,6 @@ Features
 
 
 ToDo
-- Create a clear folder structure
 - Create camera for PDA
 - Increase farmland limit to 255
 - Import InfoLayer SoilMap for Precision Farming DLC
@@ -44,3 +43,4 @@ Commits
 0004 - Create icon and preview pictures
 0005 - Create a clear folder structure (Part 1)
 0006 - Create a clear folder structure (Part 2)
+0007 - Create farmland
