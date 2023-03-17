@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<map width="2048" height="2048" imageFilename="maps/mapFR/overview.png"  mapFieldColor="0.1500 0.1195 0.0953" mapGrassFieldColor="0.1470 0.1441 0.0823">
-    <filename>maps/mapFR/map.i3d</filename>
+
+<map width="2048" height="2048" imageFilename="maps/pda/overview.png"  mapFieldColor="0.1500 0.1195 0.0953" mapGrassFieldColor="0.1470 0.1441 0.0823">
+    <filename>maps/map.i3d</filename>
     <vertexBufferMemoryUsage>0</vertexBufferMemoryUsage>
     <indexBufferMemoryUsage>0</indexBufferMemoryUsage>
     <textureMemoryUsage>0</textureMemoryUsage>
@@ -16,12 +17,12 @@
     <shop filename="$data/store/ui/shop.xml" />
     <storeItems filename="$data/maps/mapFR/storeItems.xml" />
 
-    <sounds filename="maps/mapFR/sound.xml" />
+    <sounds filename="maps/sounds/sound.xml" />
     <environment filename="$data/maps/mapFR/environment.xml" />
     <growth filename="$data/maps/maps_growth.xml" />
     <weed filename="$data/maps/mapFR/weed.xml" />
     <fieldGround filename="$data/maps/mapFR/fieldGround.xml" />
-    <farmlands filename="maps/mapFR/farmlands.xml" />
+    <farmlands filename="maps/xml/farmlands.xml" />
 
     <animals filename="$dataS/character/animals.xml">
         <names filename="$dataS/character/animalNames.xml" />

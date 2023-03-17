@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<map>
+    <farmlands densityMapFilename="maps/data/infoLayer_farmland.grle" numChannels="6" pricePerHa="60000">
+    </farmlands>
+</map>

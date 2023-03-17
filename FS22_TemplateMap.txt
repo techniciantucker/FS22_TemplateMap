@@ -29,6 +29,7 @@ ToDo
 - Create ingame help menu
 - Create Collectibles
 - Create satellite template map
+- Improve background sounds
 
 
 Bugs
@@ -41,3 +42,4 @@ Branches
 0002 - Update text file
 0003 - Import ingame helpline icons
 0004 - Create icon and preview pictures
+0005 - Create a clear folder structure (Part 1)

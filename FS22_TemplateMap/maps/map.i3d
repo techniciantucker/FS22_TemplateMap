@@ -628,8 +628,8 @@
           </FoliageSystem>
         </Layers>
       </TerrainTransformGroup>
-      <TransformGroup name="gameplay" nodeId="538">
-        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="537"/>
+      <TransformGroup name="gameplay" nodeId="537">
+        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="538"/>
         <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="539">
           <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="540">
             <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="541"/>
@@ -652,7 +652,7 @@
     <UserAttribute nodeId="12">
       <Attribute name="onCreate" type="scriptCallback" value="Environment.onCreateSunLight"/>
     </UserAttribute>
-    <UserAttribute nodeId="537">
+    <UserAttribute nodeId="538">
       <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
     </UserAttribute>
     <UserAttribute nodeId="540">
