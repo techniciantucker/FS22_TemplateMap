@@ -1,5 +1,7 @@
 Features
+- Create icon and preview pictures
 - Import ingame helpline icons
+
 
 ToDo
 - Create a clear folder structure
@@ -28,11 +30,14 @@ ToDo
 - Create Collectibles
 - Create satellite template map
 
+
 Bugs
 - Improve map border
 - Bugfix: DIRT_DARK_FR texture glows when drawing in Giants Editor
+
 
 Branches
 0001 - Create Template Map
 0002 - Update text file
 0003 - Import ingame helpline icons
+0004 - Create icon and preview pictures
