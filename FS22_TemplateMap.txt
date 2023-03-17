@@ -1,0 +1,38 @@
+Features
+- 
+
+ToDo
+- Create a clear folder structure
+- Create camera for PDA
+- Increase farmland limit to 255
+- Import InfoLayer SoilMap for Precision Farming DLC
+- Import script FieldDimension
+- Import script FoliageCreator
+- Create new settings for FoliageCreator
+- Import all paintable textures from Giants Maps
+- Import all trees from Giants Maps
+- Import all paintable meadow, grass, foliages and bushes from Giants Maps
+- Import additional paintable deco foliages from Giants Editor including store pictures
+- Import additional paintable ground foliages from Giants Editor including store pictures
+- Import additional paintable materials like stones from Giants Editor including store pictures
+- Import all buildable farmhouses
+- Create map border
+- Import usable german license plate
+- Import german license plate for AI traffic
+- Import all cars from Giants Maps
+- Import all passengers from Giants Maps
+- Import all NPC's from Giants Maps including german names
+- Delete cotton and sugar cane from PDA (Only Immersion, they can still be planted)
+- Import TrainSystem including longer trains and earlier closing of the barriers
+- Create ingame help menu
+- Import ingame helpline icons
+- Create Collectibles
+- Create satellite template map
+
+Bugs
+- Improve map border
+- Bugfix: DIRT_DARK_FR texture glows when drawing in Giants Editor
+
+Branches
+0001 - Create Template Map
+0002 - Update text file
