@@ -6,32 +6,32 @@
   </Asset>
 
   <Files>
-    <File fileId="293" filename="$data/fillPlanes/dummyFillplane_diffuse.dds"/>
-    <File fileId="294" filename="$data/fillPlanes/dummyFillplane_normal.dds"/>
-    <File fileId="295" filename="$data/fillPlanes/dummyFillplane_specular.dds"/>
-    <File fileId="256" filename="$data/foliage/barley/barley.xml"/>
-    <File fileId="255" filename="$data/foliage/canola/canola.xml"/>
-    <File fileId="266" filename="$data/foliage/cotton/cotton.xml"/>
-    <File fileId="251" filename="$data/foliage/decoBush/decoBushFR.xml"/>
-    <File fileId="249" filename="$data/foliage/decoFoliage/decoFoliageFR.xml"/>
-    <File fileId="269" filename="$data/foliage/grape/grape.xml"/>
-    <File fileId="253" filename="$data/foliage/grass/grass.xml"/>
-    <File fileId="250" filename="$data/foliage/groundFoliage/groundFoliage.xml"/>
-    <File fileId="257" filename="$data/foliage/maize/maize.xml"/>
-    <File fileId="252" filename="$data/foliage/meadow/meadowFR.xml"/>
-    <File fileId="264" filename="$data/foliage/oat/oat.xml"/>
-    <File fileId="262" filename="$data/foliage/oilseedRadish/oilseedRadish.xml"/>
-    <File fileId="268" filename="$data/foliage/olive/olive.xml"/>
-    <File fileId="263" filename="$data/foliage/poplar/poplar.xml"/>
-    <File fileId="258" filename="$data/foliage/potato/potato.xml"/>
-    <File fileId="267" filename="$data/foliage/sorghum/sorghum.xml"/>
-    <File fileId="261" filename="$data/foliage/soybean/soybean.xml"/>
-    <File fileId="271" filename="$data/foliage/stone/stone.xml"/>
-    <File fileId="259" filename="$data/foliage/sugarbeet/sugarbeet.xml"/>
-    <File fileId="265" filename="$data/foliage/sugarcane/sugarcane.xml"/>
-    <File fileId="260" filename="$data/foliage/sunflower/sunflower.xml"/>
-    <File fileId="270" filename="$data/foliage/weed/weed.xml"/>
-    <File fileId="254" filename="$data/foliage/wheat/wheat.xml"/>
+    <File fileId="294" filename="$data/fillPlanes/dummyFillplane_diffuse.dds"/>
+    <File fileId="295" filename="$data/fillPlanes/dummyFillplane_normal.dds"/>
+    <File fileId="296" filename="$data/fillPlanes/dummyFillplane_specular.dds"/>
+    <File fileId="257" filename="$data/foliage/barley/barley.xml"/>
+    <File fileId="256" filename="$data/foliage/canola/canola.xml"/>
+    <File fileId="267" filename="$data/foliage/cotton/cotton.xml"/>
+    <File fileId="252" filename="$data/foliage/decoBush/decoBushFR.xml"/>
+    <File fileId="250" filename="$data/foliage/decoFoliage/decoFoliageFR.xml"/>
+    <File fileId="270" filename="$data/foliage/grape/grape.xml"/>
+    <File fileId="254" filename="$data/foliage/grass/grass.xml"/>
+    <File fileId="251" filename="$data/foliage/groundFoliage/groundFoliage.xml"/>
+    <File fileId="258" filename="$data/foliage/maize/maize.xml"/>
+    <File fileId="253" filename="$data/foliage/meadow/meadowFR.xml"/>
+    <File fileId="265" filename="$data/foliage/oat/oat.xml"/>
+    <File fileId="263" filename="$data/foliage/oilseedRadish/oilseedRadish.xml"/>
+    <File fileId="269" filename="$data/foliage/olive/olive.xml"/>
+    <File fileId="264" filename="$data/foliage/poplar/poplar.xml"/>
+    <File fileId="259" filename="$data/foliage/potato/potato.xml"/>
+    <File fileId="268" filename="$data/foliage/sorghum/sorghum.xml"/>
+    <File fileId="262" filename="$data/foliage/soybean/soybean.xml"/>
+    <File fileId="272" filename="$data/foliage/stone/stone.xml"/>
+    <File fileId="260" filename="$data/foliage/sugarbeet/sugarbeet.xml"/>
+    <File fileId="266" filename="$data/foliage/sugarcane/sugarcane.xml"/>
+    <File fileId="261" filename="$data/foliage/sunflower/sunflower.xml"/>
+    <File fileId="271" filename="$data/foliage/weed/weed.xml"/>
+    <File fileId="255" filename="$data/foliage/wheat/wheat.xml"/>
     <File fileId="165" filename="$data/maps/mapFR/textures/terrain/animalMud01_diffuse.png"/>
     <File fileId="166" filename="$data/maps/mapFR/textures/terrain/animalMud01_normal.png"/>
     <File fileId="168" filename="$data/maps/mapFR/textures/terrain/animalMud02_diffuse.png"/>
@@ -164,25 +164,25 @@
     <File fileId="91" filename="$data/maps/mapFR/textures/terrain/riverMud04_normal.png"/>
     <File fileId="201" filename="$data/maps/mapFR/textures/terrain/waterPuddle_diffuse.png"/>
     <File fileId="202" filename="$data/maps/mapFR/textures/terrain/waterPuddle_normal.png"/>
-    <File fileId="274" filename="$data/maps/textures/terrain/ground/distance/cultivated_distance_diffuse.png"/>
-    <File fileId="287" filename="$data/maps/textures/terrain/ground/distance/directSownFertilized_distance_diffuse.png"/>
-    <File fileId="275" filename="$data/maps/textures/terrain/ground/distance/directSown_distance_diffuse.png"/>
-    <File fileId="280" filename="$data/maps/textures/terrain/ground/distance/fertilizer_distance_diffuse.png"/>
-    <File fileId="291" filename="$data/maps/textures/terrain/ground/distance/grassCutFertilized_distance_diffuse.png"/>
-    <File fileId="279" filename="$data/maps/textures/terrain/ground/distance/grassCut_distance_diffuse.png"/>
-    <File fileId="290" filename="$data/maps/textures/terrain/ground/distance/grassFertilized_distance_diffuse.png"/>
-    <File fileId="278" filename="$data/maps/textures/terrain/ground/distance/grass_distance_diffuse.png"/>
-    <File fileId="288" filename="$data/maps/textures/terrain/ground/distance/harvestReadyFertilized_distance_diffuse.png"/>
-    <File fileId="289" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOtherFertilized_distance_diffuse.png"/>
-    <File fileId="277" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOther_distance_diffuse.png"/>
-    <File fileId="276" filename="$data/maps/textures/terrain/ground/distance/harvestReady_distance_diffuse.png"/>
-    <File fileId="283" filename="$data/maps/textures/terrain/ground/distance/lime_distance_diffuse.png"/>
-    <File fileId="282" filename="$data/maps/textures/terrain/ground/distance/liquidManure_distance_diffuse.png"/>
-    <File fileId="285" filename="$data/maps/textures/terrain/ground/distance/maizeChopper_distance_diffuse.png"/>
-    <File fileId="281" filename="$data/maps/textures/terrain/ground/distance/manure_distance_diffuse.png"/>
-    <File fileId="284" filename="$data/maps/textures/terrain/ground/distance/straw_distance_diffuse.png"/>
-    <File fileId="286" filename="$data/maps/textures/terrain/ground/distance/stubbleTillageFertilized_distance_diffuse.png"/>
-    <File fileId="273" filename="$data/maps/textures/terrain/ground/distance/stubbleTillage_distance_diffuse.png"/>
+    <File fileId="275" filename="$data/maps/textures/terrain/ground/distance/cultivated_distance_diffuse.png"/>
+    <File fileId="288" filename="$data/maps/textures/terrain/ground/distance/directSownFertilized_distance_diffuse.png"/>
+    <File fileId="276" filename="$data/maps/textures/terrain/ground/distance/directSown_distance_diffuse.png"/>
+    <File fileId="281" filename="$data/maps/textures/terrain/ground/distance/fertilizer_distance_diffuse.png"/>
+    <File fileId="292" filename="$data/maps/textures/terrain/ground/distance/grassCutFertilized_distance_diffuse.png"/>
+    <File fileId="280" filename="$data/maps/textures/terrain/ground/distance/grassCut_distance_diffuse.png"/>
+    <File fileId="291" filename="$data/maps/textures/terrain/ground/distance/grassFertilized_distance_diffuse.png"/>
+    <File fileId="279" filename="$data/maps/textures/terrain/ground/distance/grass_distance_diffuse.png"/>
+    <File fileId="289" filename="$data/maps/textures/terrain/ground/distance/harvestReadyFertilized_distance_diffuse.png"/>
+    <File fileId="290" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOtherFertilized_distance_diffuse.png"/>
+    <File fileId="278" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOther_distance_diffuse.png"/>
+    <File fileId="277" filename="$data/maps/textures/terrain/ground/distance/harvestReady_distance_diffuse.png"/>
+    <File fileId="284" filename="$data/maps/textures/terrain/ground/distance/lime_distance_diffuse.png"/>
+    <File fileId="283" filename="$data/maps/textures/terrain/ground/distance/liquidManure_distance_diffuse.png"/>
+    <File fileId="286" filename="$data/maps/textures/terrain/ground/distance/maizeChopper_distance_diffuse.png"/>
+    <File fileId="282" filename="$data/maps/textures/terrain/ground/distance/manure_distance_diffuse.png"/>
+    <File fileId="285" filename="$data/maps/textures/terrain/ground/distance/straw_distance_diffuse.png"/>
+    <File fileId="287" filename="$data/maps/textures/terrain/ground/distance/stubbleTillageFertilized_distance_diffuse.png"/>
+    <File fileId="274" filename="$data/maps/textures/terrain/ground/distance/stubbleTillage_distance_diffuse.png"/>
     <File fileId="205" filename="$data/maps/textures/terrain/ground/groundType_cultivated_diffuse.png"/>
     <File fileId="206" filename="$data/maps/textures/terrain/ground/groundType_cultivated_normal.png"/>
     <File fileId="215" filename="$data/maps/textures/terrain/ground/groundType_directSown_diffuse.png"/>
@@ -221,24 +221,25 @@
     <File fileId="232" filename="$data/maps/textures/terrain/ground/spray_manure_normal.png"/>
     <File fileId="237" filename="$data/maps/textures/terrain/ground/spray_straw_diffuse.png"/>
     <File fileId="238" filename="$data/maps/textures/terrain/ground/spray_straw_normal.png"/>
-    <File fileId="303" filename="$data/shaders/glowShader.xml"/>
-    <File fileId="296" filename="$data/shaders/groundHeightShader.xml"/>
+    <File fileId="304" filename="$data/shaders/glowShader.xml"/>
+    <File fileId="297" filename="$data/shaders/groundHeightShader.xml"/>
     <File fileId="2" filename="$data/shaders/terrainShader.xml"/>
-    <File fileId="302" filename="$data/shared/assets/marker/markerIcons_diffuse.png"/>
-    <File fileId="297" filename="$data/shared/groundHeightNoise.dds"/>
-    <File fileId="298" filename="data/densityMap_fruits.gdm"/>
-    <File fileId="272" filename="data/densityMap_ground.gdm"/>
-    <File fileId="292" filename="data/densityMap_height.gdm"/>
-    <File fileId="300" filename="data/densityMap_stones.gdm"/>
-    <File fileId="299" filename="data/densityMap_weed.gdm"/>
+    <File fileId="303" filename="$data/shared/assets/marker/markerIcons_diffuse.png"/>
+    <File fileId="298" filename="$data/shared/groundHeightNoise.dds"/>
+    <File fileId="299" filename="data/densityMap_fruits.gdm"/>
+    <File fileId="273" filename="data/densityMap_ground.gdm"/>
+    <File fileId="293" filename="data/densityMap_height.gdm"/>
+    <File fileId="301" filename="data/densityMap_stones.gdm"/>
+    <File fileId="300" filename="data/densityMap_weed.gdm"/>
     <File fileId="241" filename="data/infoLayer_farmland.grle"/>
     <File fileId="242" filename="data/infoLayer_fieldDimensions.grle"/>
     <File fileId="243" filename="data/infoLayer_fruitDensity.grle"/>
-    <File fileId="244" filename="data/infoLayer_indoorMask.grle"/>
-    <File fileId="245" filename="data/infoLayer_navigationCollision.grle"/>
-    <File fileId="248" filename="data/infoLayer_placementCollisionGenerated.grle"/>
-    <File fileId="246" filename="data/infoLayer_tipCollision.grle"/>
-    <File fileId="247" filename="data/infoLayer_tipCollisionGenerated.grle"/>
+    <File fileId="245" filename="data/infoLayer_indoorMask.grle"/>
+    <File fileId="246" filename="data/infoLayer_navigationCollision.grle"/>
+    <File fileId="249" filename="data/infoLayer_placementCollisionGenerated.grle"/>
+    <File fileId="244" filename="data/infoLayer_soilMap.png"/>
+    <File fileId="247" filename="data/infoLayer_tipCollision.grle"/>
+    <File fileId="248" filename="data/infoLayer_tipCollisionGenerated.grle"/>
     <File fileId="164" filename="data/mapHautBeyleron/animalMud01_weight.png"/>
     <File fileId="167" filename="data/mapHautBeyleron/animalMud02_weight.png"/>
     <File fileId="170" filename="data/mapHautBeyleron/animalMud03_weight.png"/>
@@ -313,16 +314,16 @@
   <Materials>
     <Material name="default_mat" materialId="4" diffuseColor="0.4 0.4 0.4 1">
     </Material>
-    <Material name="groundDetailHeight_mat" materialId="5" customShaderId="296">
-      <Texture fileId="293"/>
-      <Normalmap fileId="294"/>
-      <Glossmap fileId="295"/>
-      <Custommap name="heightNoiseMap" fileId="297"/>
+    <Material name="groundDetailHeight_mat" materialId="5" customShaderId="297">
+      <Texture fileId="294"/>
+      <Normalmap fileId="295"/>
+      <Glossmap fileId="296"/>
+      <Custommap name="heightNoiseMap" fileId="298"/>
       <CustomParameter name="alphaBlendStartEnd_densityUVScale" value="75 80 4 4"/>
       <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="4096 0.000244141 0.5 0.00389105"/>
     </Material>
-    <Material name="markerIcons_mat" materialId="6" alphaBlending="true" customShaderId="303" customShaderVariation="additive_billboard_pulsating">
-      <Emissivemap fileId="302"/>
+    <Material name="markerIcons_mat" materialId="6" alphaBlending="true" customShaderId="304" customShaderVariation="additive_billboard_pulsating">
+      <Emissivemap fileId="303"/>
       <CustomParameter name="lightControl" value="1 0 0 0"/>
       <CustomParameter name="pulseSpeed" value="3 0 0 0"/>
     </Material>
@@ -349,7 +350,7 @@
   <Scene>
       <Light name="sun" translation="0 400 0" rotation="-35.393 51.396 20.805" objectMask="67043328" nodeId="11" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.0005" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" pcssLightSize="50" pcssLightDistance="50" pcssDepthBiasFactor="1" pcssMaxPenumbraSize="1" shadowPerspective="true" numShadowMapSplits="5" shadowMapSplitDistance0="20.7462" shadowMapSplitDistance1="46.4883" shadowMapSplitDistance2="120" shadowMapSplitDistance3="314" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
       <TransformGroup name="cameras" visibility="false" nodeId="12">
-        <Camera name="Landscaping" translation="0.285859 638.324 1492.18" rotation="-32.4775 -7.11092 3.56256e-07" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
+        <Camera name="Landscaping" translation="11.1951 1379.48 1127.28" rotation="-68.9177 -3.90235 2.08925e-07" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
         <Camera name="PDA" translation="0 700 0" rotation="-90 0 0" nodeId="14" fov="60" nearClip="100" farClip="900" orthographic="true" orthographicHeight="2100"/>
       </TransformGroup>
       <TerrainTransformGroup name="terrain" static="true" collisionMask="524255" nodeId="16" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="2048" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occLevel="1" occFaceCount="100" occMaxHausdorffDistance="10" occMaxHausdorffDistanceExtra="10" occMinHorizontalDistance="1" occDistanceWeight="1">
@@ -988,17 +989,18 @@
               <Option value="3" name="Forest"/>
             </Group>
           </InfoLayer>
-          <InfoLayer name="indoorMask" fileId="244" numChannels="1" runtime="true">
+          <InfoLayer name="soilMap" fileId="244" numChannels="3" runtime="true"/>
+          <InfoLayer name="indoorMask" fileId="245" numChannels="1" runtime="true">
             <Group name="State" firstChannel="0" numChannels="1" >
               <Option value="0" name="Outdoor"/>
               <Option value="1" name="Indoor"/>
             </Group>
           </InfoLayer>
-          <InfoLayer name="navigationCollision" fileId="245" numChannels="1" runtime="true"/>
-          <InfoLayer name="tipCollision" fileId="246" numChannels="1" runtime="true"/>
-          <InfoLayer name="tipCollisionGenerated" fileId="247" numChannels="2" runtime="true"/>
-          <InfoLayer name="placementCollisionGenerated" fileId="248" numChannels="1" runtime="true"/>
-          <DetailLayer name="terrainDetail" densityMapId="272" numDensityMapChannels="10" compressionChannels="10" cellSize="8" objectMask="16711935" decalLayer="1" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 4 0;4 3 0;7 3 0">
+          <InfoLayer name="navigationCollision" fileId="246" numChannels="1" runtime="true"/>
+          <InfoLayer name="tipCollision" fileId="247" numChannels="1" runtime="true"/>
+          <InfoLayer name="tipCollisionGenerated" fileId="248" numChannels="2" runtime="true"/>
+          <InfoLayer name="placementCollisionGenerated" fileId="249" numChannels="1" runtime="true"/>
+          <DetailLayer name="terrainDetail" densityMapId="273" numDensityMapChannels="10" compressionChannels="10" cellSize="8" objectMask="16711935" decalLayer="1" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 4 0;4 3 0;7 3 0">
             <Group name="GroundType" firstChannel="0" numChannels="4" >
               <Option value="1" name="Stubble Tillage"/>
               <Option value="2" name="Cultivated"/>
@@ -1032,102 +1034,102 @@
               <Option value="5" name="Straw Chopper"/>
               <Option value="6" name="Maize Chopper"/>
             </Group>
-            <DistanceTexture match="1;*;0" fileId="273"/>
-            <DistanceTexture match="2;*;0" fileId="274"/>
-            <DistanceTexture match="3;*;0" fileId="274"/>
-            <DistanceTexture match="4;*;0" fileId="274"/>
-            <DistanceTexture match="5;*;0" fileId="274"/>
-            <DistanceTexture match="6;*;0" fileId="274"/>
-            <DistanceTexture match="7;*;0" fileId="275"/>
-            <DistanceTexture match="8;*;0" fileId="274"/>
-            <DistanceTexture match="9;*;0" fileId="274"/>
-            <DistanceTexture match="10;*;0" fileId="274"/>
-            <DistanceTexture match="11;*;0" fileId="276"/>
-            <DistanceTexture match="12;*;0" fileId="277"/>
-            <DistanceTexture match="13;*;0" fileId="278"/>
-            <DistanceTexture match="14;*;0" fileId="279"/>
-            <DistanceTexture match="*;*;1" fileId="280"/>
-            <DistanceTexture match="*;*;2" fileId="281"/>
-            <DistanceTexture match="*;*;3" fileId="282"/>
-            <DistanceTexture match="*;*;4" fileId="283"/>
-            <DistanceTexture match="*;*;5" fileId="284"/>
-            <DistanceTexture match="*;*;6" fileId="285"/>
-            <DistanceTexture match="1;*;1" fileId="286"/>
-            <DistanceTexture match="7;*;1" fileId="287"/>
-            <DistanceTexture match="11;*;1" fileId="288"/>
-            <DistanceTexture match="12;*;1" fileId="289"/>
-            <DistanceTexture match="13;*;1" fileId="290"/>
-            <DistanceTexture match="14;*;1" fileId="291"/>
+            <DistanceTexture match="1;*;0" fileId="274"/>
+            <DistanceTexture match="2;*;0" fileId="275"/>
+            <DistanceTexture match="3;*;0" fileId="275"/>
+            <DistanceTexture match="4;*;0" fileId="275"/>
+            <DistanceTexture match="5;*;0" fileId="275"/>
+            <DistanceTexture match="6;*;0" fileId="275"/>
+            <DistanceTexture match="7;*;0" fileId="276"/>
+            <DistanceTexture match="8;*;0" fileId="275"/>
+            <DistanceTexture match="9;*;0" fileId="275"/>
+            <DistanceTexture match="10;*;0" fileId="275"/>
+            <DistanceTexture match="11;*;0" fileId="277"/>
+            <DistanceTexture match="12;*;0" fileId="278"/>
+            <DistanceTexture match="13;*;0" fileId="279"/>
+            <DistanceTexture match="14;*;0" fileId="280"/>
+            <DistanceTexture match="*;*;1" fileId="281"/>
+            <DistanceTexture match="*;*;2" fileId="282"/>
+            <DistanceTexture match="*;*;3" fileId="283"/>
+            <DistanceTexture match="*;*;4" fileId="284"/>
+            <DistanceTexture match="*;*;5" fileId="285"/>
+            <DistanceTexture match="*;*;6" fileId="286"/>
+            <DistanceTexture match="1;*;1" fileId="287"/>
+            <DistanceTexture match="7;*;1" fileId="288"/>
+            <DistanceTexture match="11;*;1" fileId="289"/>
+            <DistanceTexture match="12;*;1" fileId="290"/>
+            <DistanceTexture match="13;*;1" fileId="291"/>
+            <DistanceTexture match="14;*;1" fileId="292"/>
           </DetailLayer>
-          <DetailLayer name="terrainDetailHeight" densityMapId="292" numDensityMapChannels="12" compressionChannels="6" cellSize="8" objectMask="16711935" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 6 0" heightFirstChannel="6" heightNumChannels="6" maxHeight="4"/>
+          <DetailLayer name="terrainDetailHeight" densityMapId="293" numDensityMapChannels="12" compressionChannels="6" cellSize="8" objectMask="16711935" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 6 0" heightFirstChannel="6" heightNumChannels="6" maxHeight="4"/>
           <FoliageSystem cellSize="8" objectMask="16711935" decalLayer="0">
-            <FoliageMultiLayer densityMapId="298" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
-              <FoliageType name="decoFoliage" foliageXmlId="249"/>
-              <FoliageType name="groundFoliage" foliageXmlId="250"/>
-              <FoliageType name="decoBush" foliageXmlId="251"/>
-              <FoliageType name="meadow" foliageXmlId="252"/>
-              <FoliageType name="grass" foliageXmlId="253"/>
-              <FoliageType name="wheat" foliageXmlId="254"/>
-              <FoliageType name="canola" foliageXmlId="255"/>
-              <FoliageType name="barley" foliageXmlId="256"/>
-              <FoliageType name="maize" foliageXmlId="257"/>
-              <FoliageType name="potato" foliageXmlId="258"/>
-              <FoliageType name="sugarBeet" foliageXmlId="259"/>
-              <FoliageType name="sunflower" foliageXmlId="260"/>
-              <FoliageType name="soybean" foliageXmlId="261"/>
-              <FoliageType name="oilseedRadish" foliageXmlId="262"/>
-              <FoliageType name="poplar" foliageXmlId="263"/>
-              <FoliageType name="oat" foliageXmlId="264"/>
-              <FoliageType name="sugarCane" foliageXmlId="265"/>
-              <FoliageType name="cotton" foliageXmlId="266"/>
-              <FoliageType name="sorghum" foliageXmlId="267"/>
-              <FoliageType name="olive" foliageXmlId="268"/>
-              <FoliageType name="grape" foliageXmlId="269"/>
+            <FoliageMultiLayer densityMapId="299" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
+              <FoliageType name="decoFoliage" foliageXmlId="250"/>
+              <FoliageType name="groundFoliage" foliageXmlId="251"/>
+              <FoliageType name="decoBush" foliageXmlId="252"/>
+              <FoliageType name="meadow" foliageXmlId="253"/>
+              <FoliageType name="grass" foliageXmlId="254"/>
+              <FoliageType name="wheat" foliageXmlId="255"/>
+              <FoliageType name="canola" foliageXmlId="256"/>
+              <FoliageType name="barley" foliageXmlId="257"/>
+              <FoliageType name="maize" foliageXmlId="258"/>
+              <FoliageType name="potato" foliageXmlId="259"/>
+              <FoliageType name="sugarBeet" foliageXmlId="260"/>
+              <FoliageType name="sunflower" foliageXmlId="261"/>
+              <FoliageType name="soybean" foliageXmlId="262"/>
+              <FoliageType name="oilseedRadish" foliageXmlId="263"/>
+              <FoliageType name="poplar" foliageXmlId="264"/>
+              <FoliageType name="oat" foliageXmlId="265"/>
+              <FoliageType name="sugarCane" foliageXmlId="266"/>
+              <FoliageType name="cotton" foliageXmlId="267"/>
+              <FoliageType name="sorghum" foliageXmlId="268"/>
+              <FoliageType name="olive" foliageXmlId="269"/>
+              <FoliageType name="grape" foliageXmlId="270"/>
             </FoliageMultiLayer>
-            <FoliageMultiLayer densityMapId="299" numChannels="4" numTypeIndexChannels="0">
-              <FoliageType name="weed" foliageXmlId="270"/>
+            <FoliageMultiLayer densityMapId="300" numChannels="4" numTypeIndexChannels="0">
+              <FoliageType name="weed" foliageXmlId="271"/>
             </FoliageMultiLayer>
-            <FoliageMultiLayer densityMapId="300" numChannels="3" numTypeIndexChannels="0">
-              <FoliageType name="stone" foliageXmlId="271"/>
+            <FoliageMultiLayer densityMapId="301" numChannels="3" numTypeIndexChannels="0">
+              <FoliageType name="stone" foliageXmlId="272"/>
             </FoliageMultiLayer>
           </FoliageSystem>
         </Layers>
       </TerrainTransformGroup>
-      <TransformGroup name="gameplay" nodeId="541">
-        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="542"/>
-        <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="543">
-          <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="544">
-            <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="545"/>
+      <TransformGroup name="gameplay" nodeId="542">
+        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="543"/>
+        <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="544">
+          <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="545">
+            <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="546"/>
           </TransformGroup>
-          <TransformGroup name="storeSpawnPlace2Start" translation="-10 0 10" nodeId="546">
-            <TransformGroup name="storeSpawnPlace2End" translation="20 0 0" nodeId="547"/>
+          <TransformGroup name="storeSpawnPlace2Start" translation="-10 0 10" nodeId="547">
+            <TransformGroup name="storeSpawnPlace2End" translation="20 0 0" nodeId="548"/>
           </TransformGroup>
-          <Shape shapeId="1" name="vehicleShopTrigger" static="true" trigger="true" collisionMask="3145728" nodeId="548" materialIds="4" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <TransformGroup name="markerIconShopping" nodeId="549">
-              <Shape shapeId="2" name="iconShopping" translation="0 1 0" clipDistance="300" nodeId="550" materialIds="6" castsShadows="true" receiveShadows="true"/>
-              <Light name="pointLight7" translation="0 1 0" clipDistance="100" nodeId="551" type="point" color="0 0.35 0.9" emitDiffuse="true" emitSpecular="true" range="2.5"/>
+          <Shape shapeId="1" name="vehicleShopTrigger" static="true" trigger="true" collisionMask="3145728" nodeId="549" materialIds="4" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <TransformGroup name="markerIconShopping" nodeId="550">
+              <Shape shapeId="2" name="iconShopping" translation="0 1 0" clipDistance="300" nodeId="551" materialIds="6" castsShadows="true" receiveShadows="true"/>
+              <Light name="pointLight7" translation="0 1 0" clipDistance="100" nodeId="552" type="point" color="0 0.35 0.9" emitDiffuse="true" emitSpecular="true" range="2.5"/>
             </TransformGroup>
-            <TransformGroup name="vehicleShopPlayerSpawn" nodeId="552"/>
+            <TransformGroup name="vehicleShopPlayerSpawn" nodeId="553"/>
           </Shape>
         </TransformGroup>
-        <TransformGroup name="fields" translation="0 50 0" nodeId="553">
-          <TransformGroup name="field001" translation="0 -50 0" nodeId="554">
-            <TransformGroup name="fieldDimensions" nodeId="555">
-              <TransformGroup name="corner01_1" translation="-250 0 -100" nodeId="556">
-                <TransformGroup name="corner01_2" translation="200 0 0" nodeId="557"/>
-                <TransformGroup name="corner01_3" translation="200 0 200" nodeId="558"/>
+        <TransformGroup name="fields" translation="0 50 0" nodeId="554">
+          <TransformGroup name="field001" translation="0 -50 0" nodeId="555">
+            <TransformGroup name="fieldDimensions" nodeId="556">
+              <TransformGroup name="corner01_1" translation="-250 0 -100" nodeId="557">
+                <TransformGroup name="corner01_2" translation="200 0 0" nodeId="558"/>
+                <TransformGroup name="corner01_3" translation="200 0 200" nodeId="559"/>
               </TransformGroup>
             </TransformGroup>
-            <TransformGroup name="fieldMapIndicator" translation="-150 0 0" nodeId="559"/>
+            <TransformGroup name="fieldMapIndicator" translation="-150 0 0" nodeId="560"/>
           </TransformGroup>
-          <TransformGroup name="field002" translation="0 -50 0" nodeId="560">
-            <TransformGroup name="fieldDimensions" nodeId="561">
-              <TransformGroup name="corner01_1" translation="50 0 -100" nodeId="562">
-                <TransformGroup name="corner01_2" translation="200 0 0" nodeId="563"/>
-                <TransformGroup name="corner01_3" translation="200 0 200" nodeId="564"/>
+          <TransformGroup name="field002" translation="0 -50 0" nodeId="561">
+            <TransformGroup name="fieldDimensions" nodeId="562">
+              <TransformGroup name="corner01_1" translation="50 0 -100" nodeId="563">
+                <TransformGroup name="corner01_2" translation="200 0 0" nodeId="564"/>
+                <TransformGroup name="corner01_3" translation="200 0 200" nodeId="565"/>
               </TransformGroup>
             </TransformGroup>
-            <TransformGroup name="fieldMapIndicator" translation="150 0 0" nodeId="565"/>
+            <TransformGroup name="fieldMapIndicator" translation="150 0 0" nodeId="566"/>
           </TransformGroup>
         </TransformGroup>
       </TransformGroup>
@@ -1137,30 +1139,30 @@
     <UserAttribute nodeId="11">
       <Attribute name="onCreate" type="scriptCallback" value="Environment.onCreateSunLight"/>
     </UserAttribute>
-    <UserAttribute nodeId="542">
+    <UserAttribute nodeId="543">
       <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
     </UserAttribute>
-    <UserAttribute nodeId="544">
+    <UserAttribute nodeId="545">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>
-    <UserAttribute nodeId="546">
+    <UserAttribute nodeId="547">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>
-    <UserAttribute nodeId="548">
+    <UserAttribute nodeId="549">
       <Attribute name="onCreate" type="scriptCallback" value="ShopTrigger.onCreate"/>
     </UserAttribute>
-    <UserAttribute nodeId="553">
+    <UserAttribute nodeId="554">
       <Attribute name="onCreate" type="scriptCallback" value="FieldUtil.onCreate"/>
     </UserAttribute>
-    <UserAttribute nodeId="554">
+    <UserAttribute nodeId="555">
       <Attribute name="fieldAngle" type="integer" value="0"/>
       <Attribute name="fieldDimensionIndex" type="integer" value="0"/>
       <Attribute name="fieldGrassMission" type="boolean" value="false"/>
       <Attribute name="nameIndicatorIndex" type="integer" value="1"/>
     </UserAttribute>
-    <UserAttribute nodeId="560">
+    <UserAttribute nodeId="561">
       <Attribute name="fieldAngle" type="integer" value="90"/>
       <Attribute name="fieldDimensionIndex" type="integer" value="0"/>
       <Attribute name="fieldGrassMission" type="boolean" value="true"/>

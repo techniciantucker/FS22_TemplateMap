@@ -54,6 +54,10 @@
     
     <gameplayHints filename="$dataS/gameplayHints.xml" />
 
+	<precisionFarming>
+		<soilMap filename="maps/data/infoLayer_soilMap.grle"/>
+	</precisionFarming>
+
     <hotspots>
     </hotspots>
 
