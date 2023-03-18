@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<map>
+    <npcs>
+        <npc name="NPC_01" title="Elmar Kirstein"  		 imageFilename="$dataS/character/humans/npc/portraits/npc_01.png" />
+        <npc name="NPC_02" title="Volker Rabe" 	 		 imageFilename="$dataS/character/humans/npc/portraits/npc_02.png" />
+        <npc name="NPC_03" title="Sylvester Göring"    	 imageFilename="$dataS/character/humans/npc/portraits/npc_03.png" />
+        <npc name="NPC_04" title="Edeltraud Pagel"   	 imageFilename="$dataS/character/humans/npc/portraits/npc_04.png" />
+        <npc name="NPC_05" title="Cordt Scheffel"	   	 imageFilename="$dataS/character/humans/npc/portraits/npc_05.png" />
+        <npc name="NPC_06" title="Norwin Rank"     	 	 imageFilename="$dataS/character/humans/npc/portraits/npc_06.png" />
+        <npc name="NPC_07" title="Veronika Kahle" 	 	 imageFilename="$dataS/character/humans/npc/portraits/npc_07.png" />
+        <npc name="NPC_08" title="Dieter Haarmann"	   	 imageFilename="$dataS/character/humans/npc/portraits/npc_08.png" />
+        <npc name="NPC_09" title="Monja Weidlich"      	 imageFilename="$dataS/character/humans/npc/portraits/npc_09.png" />
+        <npc name="NPC_10" title="Sinah Reimer" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_10.png" />
+        <npc name="NPC_11" title="Nico Hille"      	 	 imageFilename="$dataS/character/humans/npc/portraits/npc_11.png" />
+        <npc name="NPC_12" title="Klaus Bensch"  	     imageFilename="$dataS/character/humans/npc/portraits/npc_12.png" />
+        <npc name="NPC_13" title="Luitwin Wirtz"   	 	 imageFilename="$dataS/character/humans/npc/portraits/npc_13.png" />
+        <npc name="NPC_14" title="Elselore Mück"    	 imageFilename="$dataS/character/humans/npc/portraits/npc_14.png" />
+        <npc name="NPC_15" title="Corinna Sternberg"  	 imageFilename="$dataS/character/humans/npc/portraits/npc_15.png" />
+        <npc name="NPC_16" title="Lina Enke" 	 		 imageFilename="$dataS/character/humans/npc/portraits/npc_21.png" />
+        <npc name="NPC_17" title="Rita Kerber" 		 	 imageFilename="$dataS/character/humans/npc/portraits/npc_22.png" />
+        <npc name="NPC_18" title="Saskia Bischof" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_23.png" />
+        <npc name="NPC_19" title="Heimbert Rauscher" 	 imageFilename="$dataS/character/humans/npc/portraits/npc_24.png" />
+        <npc name="NPC_20" title="Mirco Welzel" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_25.png" />
+        <npc name="NPC_21" title="Juliana Krüger" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_26.png" />
+        <npc name="NPC_22" title="Ernst Rieke" 			 imageFilename="$dataS/character/humans/npc/portraits/npc_27.png" />
+        <npc name="NPC_23" title="Diemo Rohrbach" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_28.png" />
+        <npc name="NPC_24" title="Gerd Krämer" 			 imageFilename="$dataS/character/humans/npc/portraits/npc_29.png" />
+        <npc name="NPC_25" title="Marietta Rademacher" 	 imageFilename="$dataS/character/humans/npc/portraits/npc_30.png" />
+        <npc name="NPC_26" title="Ruthard Herdt" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_31.png" />
+        <npc name="NPC_27" title="Philip Goldberg" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_32.png" />
+        <npc name="NPC_28" title="Kruno Prüfer" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_33.png" />
+        <npc name="NPC_29" title="Florian Scheibel" 	 imageFilename="$dataS/character/humans/npc/portraits/npc_34.png" />
+        <npc name="NPC_30" title="Bolko Weis" 			 imageFilename="$dataS/character/humans/npc/portraits/npc_35.png" />
+        <npc name="NPC_31" title="Armin Burk"   	     imageFilename="$dataS/character/humans/npc/portraits/npc_41.png" />
+        <npc name="NPC_32" title="Sighild Volk"          imageFilename="$dataS/character/humans/npc/portraits/npc_42.png" />
+        <npc name="NPC_33" title="Eric Weide"	         imageFilename="$dataS/character/humans/npc/portraits/npc_43.png" />
+        <npc name="NPC_34" title="Ronald Grunwald"       imageFilename="$dataS/character/humans/npc/portraits/npc_44.png" />
+        <npc name="NPC_35" title="Jörgfried Schuller"    imageFilename="$dataS/character/humans/npc/portraits/npc_45.png" />
+        <npc name="NPC_36" title="Meike Schreyer"        imageFilename="$dataS/character/humans/npc/portraits/npc_46.png" />
+        <npc name="NPC_37" title="David Block"           imageFilename="$dataS/character/humans/npc/portraits/npc_47.png" />
+        <npc name="NPC_38" title="Gottlieb Kropf"        imageFilename="$dataS/character/humans/npc/portraits/npc_48.png" />
+        <npc name="NPC_39" title="Engelhard Kautz"    	 imageFilename="$dataS/character/humans/npc/portraits/npc_49.png" />
+        <npc name="NPC_40" title="Michelle Kuch"         imageFilename="$dataS/character/humans/npc/portraits/npc_50.png" />
+        <npc name="NPC_41" title="Milli Hantke"        	 imageFilename="$dataS/character/humans/npc/portraits/npc_51.png" />
+        <npc name="NPC_42" title="Titus Nitschke"      	 imageFilename="$dataS/character/humans/npc/portraits/npc_52.png" />
+        <npc name="NPC_43" title="Johann Bürkle"       	 imageFilename="$dataS/character/humans/npc/portraits/npc_53.png" />
+        <npc name="NPC_44" title="Gerfried Janssen"      imageFilename="$dataS/character/humans/npc/portraits/npc_54.png" />
+        <npc name="NPC_45" title="Annelinde Keim" 		 imageFilename="$dataS/character/humans/npc/portraits/npc_55.png" />
+    </npcs>
+</map>

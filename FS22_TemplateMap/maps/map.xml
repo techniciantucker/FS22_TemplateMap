@@ -29,7 +29,7 @@
         <food filename="$dataS/character/animalFood.xml" />
     </animals>
     <wildlife filename="$dataS/character/wildlifeSpawner.xml" />
-    <npcs filename="$data/maps/mapFR/npcs.xml" />
+    <npcs filename="maps/xml/npcs.xml" />
     <!-- <helpers filename="$data/maps/maps_helpers.xml" /> -->
     
     <helpline filename="$dataS/helpLine.xml">
