@@ -1,30 +1,30 @@
 Features
-- Create icon and preview pictures
 - Increase farmland limit to 255
-- Import all NPC's from Giants Maps including german names
+- Import script FieldDimension
+- Add camera for PDA Map
+- Add all NPC's from Giants Maps including german names
 - Add ingame helpline icons
-- Create camera for PDA Map
+- Add icon and preview pictures
 
 
 ToDo
 - Create dummy for different views
 - Improve and delete references to default Giants Mod MapFR
-- Import InfoLayer SoilMap for Precision Farming DLC
-- Import script FieldDimension
+- Add InfoLayer SoilMap for Precision Farming DLC
 - Import script FoliageCreator
 - Create new settings for FoliageCreator
-- Import all paintable textures from Giants Maps
-- Import all trees from Giants Maps
-- Import all paintable meadow, grass, foliages and bushes from Giants Maps
-- Import additional paintable deco foliages from Giants Editor including store pictures
-- Import additional paintable ground foliages from Giants Editor including store pictures
-- Import additional paintable materials like stones from Giants Editor including store pictures
-- Import all buildable farmhouses
+- Add all paintable textures from Giants Maps
+- Add all trees from Giants Maps
+- Add all paintable meadow, grass, foliages and bushes from Giants Maps
+- Add additional paintable deco foliages from Giants Editor including store pictures
+- Add additional paintable ground foliages from Giants Editor including store pictures
+- Add additional paintable materials like stones from Giants Editor including store pictures
+- Add all buildable farmhouses
 - Create map border
-- Import usable german license plate
-- Import german license plate for AI traffic
-- Import all cars from Giants Maps
-- Import all passengers from Giants Maps
+- Add usable german license plate
+- Add german license plate for AI traffic
+- Add all cars from Giants Maps
+- Add all passengers from Giants Maps
 - Delete cotton and sugar cane from PDA (Only Immersion, they can still be planted)
 - Import TrainSystem including longer trains and earlier closing of the barriers
 - Create ingame help menu
@@ -50,3 +50,4 @@ Commits
 0009 - Change Moddesc Version
 0010 - Increase farmland limit to 255
 0011 - Import all NPC's from Giants Maps including german names
+0012 - Import script FieldDimension

@@ -3,10 +3,10 @@
 <map>
     <farmlands densityMapFilename="maps/data/infoLayer_farmland.grle" numChannels="8" pricePerHa="60000">
         <farmland id="1"  	priceScale="1"    npcName="NPC_01"  defaultFarmProperty="true" />
-
-		<!--
 		<farmland id="2"  	priceScale="1"    npcName="NPC_02" />
 		<farmland id="3"  	priceScale="1" 	  npcName="NPC_03" />
+
+		<!--
 		<farmland id="4"  	priceScale="1"    npcName="NPC_04" />
         <farmland id="5"  	priceScale="1"    npcName="NPC_05" />
         <farmland id="6"  	priceScale="1"    npcName="NPC_06" />

@@ -6,32 +6,32 @@
   </Asset>
 
   <Files>
-    <File fileId="291" filename="$data/fillPlanes/dummyFillplane_diffuse.dds"/>
-    <File fileId="292" filename="$data/fillPlanes/dummyFillplane_normal.dds"/>
-    <File fileId="293" filename="$data/fillPlanes/dummyFillplane_specular.dds"/>
-    <File fileId="254" filename="$data/foliage/barley/barley.xml"/>
-    <File fileId="253" filename="$data/foliage/canola/canola.xml"/>
-    <File fileId="264" filename="$data/foliage/cotton/cotton.xml"/>
-    <File fileId="249" filename="$data/foliage/decoBush/decoBushFR.xml"/>
-    <File fileId="247" filename="$data/foliage/decoFoliage/decoFoliageFR.xml"/>
-    <File fileId="267" filename="$data/foliage/grape/grape.xml"/>
-    <File fileId="251" filename="$data/foliage/grass/grass.xml"/>
-    <File fileId="248" filename="$data/foliage/groundFoliage/groundFoliage.xml"/>
-    <File fileId="255" filename="$data/foliage/maize/maize.xml"/>
-    <File fileId="250" filename="$data/foliage/meadow/meadowFR.xml"/>
-    <File fileId="262" filename="$data/foliage/oat/oat.xml"/>
-    <File fileId="260" filename="$data/foliage/oilseedRadish/oilseedRadish.xml"/>
-    <File fileId="266" filename="$data/foliage/olive/olive.xml"/>
-    <File fileId="261" filename="$data/foliage/poplar/poplar.xml"/>
-    <File fileId="256" filename="$data/foliage/potato/potato.xml"/>
-    <File fileId="265" filename="$data/foliage/sorghum/sorghum.xml"/>
-    <File fileId="259" filename="$data/foliage/soybean/soybean.xml"/>
-    <File fileId="269" filename="$data/foliage/stone/stone.xml"/>
-    <File fileId="257" filename="$data/foliage/sugarbeet/sugarbeet.xml"/>
-    <File fileId="263" filename="$data/foliage/sugarcane/sugarcane.xml"/>
-    <File fileId="258" filename="$data/foliage/sunflower/sunflower.xml"/>
-    <File fileId="268" filename="$data/foliage/weed/weed.xml"/>
-    <File fileId="252" filename="$data/foliage/wheat/wheat.xml"/>
+    <File fileId="292" filename="$data/fillPlanes/dummyFillplane_diffuse.dds"/>
+    <File fileId="293" filename="$data/fillPlanes/dummyFillplane_normal.dds"/>
+    <File fileId="294" filename="$data/fillPlanes/dummyFillplane_specular.dds"/>
+    <File fileId="255" filename="$data/foliage/barley/barley.xml"/>
+    <File fileId="254" filename="$data/foliage/canola/canola.xml"/>
+    <File fileId="265" filename="$data/foliage/cotton/cotton.xml"/>
+    <File fileId="250" filename="$data/foliage/decoBush/decoBushFR.xml"/>
+    <File fileId="248" filename="$data/foliage/decoFoliage/decoFoliageFR.xml"/>
+    <File fileId="268" filename="$data/foliage/grape/grape.xml"/>
+    <File fileId="252" filename="$data/foliage/grass/grass.xml"/>
+    <File fileId="249" filename="$data/foliage/groundFoliage/groundFoliage.xml"/>
+    <File fileId="256" filename="$data/foliage/maize/maize.xml"/>
+    <File fileId="251" filename="$data/foliage/meadow/meadowFR.xml"/>
+    <File fileId="263" filename="$data/foliage/oat/oat.xml"/>
+    <File fileId="261" filename="$data/foliage/oilseedRadish/oilseedRadish.xml"/>
+    <File fileId="267" filename="$data/foliage/olive/olive.xml"/>
+    <File fileId="262" filename="$data/foliage/poplar/poplar.xml"/>
+    <File fileId="257" filename="$data/foliage/potato/potato.xml"/>
+    <File fileId="266" filename="$data/foliage/sorghum/sorghum.xml"/>
+    <File fileId="260" filename="$data/foliage/soybean/soybean.xml"/>
+    <File fileId="270" filename="$data/foliage/stone/stone.xml"/>
+    <File fileId="258" filename="$data/foliage/sugarbeet/sugarbeet.xml"/>
+    <File fileId="264" filename="$data/foliage/sugarcane/sugarcane.xml"/>
+    <File fileId="259" filename="$data/foliage/sunflower/sunflower.xml"/>
+    <File fileId="269" filename="$data/foliage/weed/weed.xml"/>
+    <File fileId="253" filename="$data/foliage/wheat/wheat.xml"/>
     <File fileId="165" filename="$data/maps/mapFR/textures/terrain/animalMud01_diffuse.png"/>
     <File fileId="166" filename="$data/maps/mapFR/textures/terrain/animalMud01_normal.png"/>
     <File fileId="168" filename="$data/maps/mapFR/textures/terrain/animalMud02_diffuse.png"/>
@@ -164,25 +164,25 @@
     <File fileId="91" filename="$data/maps/mapFR/textures/terrain/riverMud04_normal.png"/>
     <File fileId="201" filename="$data/maps/mapFR/textures/terrain/waterPuddle_diffuse.png"/>
     <File fileId="202" filename="$data/maps/mapFR/textures/terrain/waterPuddle_normal.png"/>
-    <File fileId="272" filename="$data/maps/textures/terrain/ground/distance/cultivated_distance_diffuse.png"/>
-    <File fileId="285" filename="$data/maps/textures/terrain/ground/distance/directSownFertilized_distance_diffuse.png"/>
-    <File fileId="273" filename="$data/maps/textures/terrain/ground/distance/directSown_distance_diffuse.png"/>
-    <File fileId="278" filename="$data/maps/textures/terrain/ground/distance/fertilizer_distance_diffuse.png"/>
-    <File fileId="289" filename="$data/maps/textures/terrain/ground/distance/grassCutFertilized_distance_diffuse.png"/>
-    <File fileId="277" filename="$data/maps/textures/terrain/ground/distance/grassCut_distance_diffuse.png"/>
-    <File fileId="288" filename="$data/maps/textures/terrain/ground/distance/grassFertilized_distance_diffuse.png"/>
-    <File fileId="276" filename="$data/maps/textures/terrain/ground/distance/grass_distance_diffuse.png"/>
-    <File fileId="286" filename="$data/maps/textures/terrain/ground/distance/harvestReadyFertilized_distance_diffuse.png"/>
-    <File fileId="287" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOtherFertilized_distance_diffuse.png"/>
-    <File fileId="275" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOther_distance_diffuse.png"/>
-    <File fileId="274" filename="$data/maps/textures/terrain/ground/distance/harvestReady_distance_diffuse.png"/>
-    <File fileId="281" filename="$data/maps/textures/terrain/ground/distance/lime_distance_diffuse.png"/>
-    <File fileId="280" filename="$data/maps/textures/terrain/ground/distance/liquidManure_distance_diffuse.png"/>
-    <File fileId="283" filename="$data/maps/textures/terrain/ground/distance/maizeChopper_distance_diffuse.png"/>
-    <File fileId="279" filename="$data/maps/textures/terrain/ground/distance/manure_distance_diffuse.png"/>
-    <File fileId="282" filename="$data/maps/textures/terrain/ground/distance/straw_distance_diffuse.png"/>
-    <File fileId="284" filename="$data/maps/textures/terrain/ground/distance/stubbleTillageFertilized_distance_diffuse.png"/>
-    <File fileId="271" filename="$data/maps/textures/terrain/ground/distance/stubbleTillage_distance_diffuse.png"/>
+    <File fileId="273" filename="$data/maps/textures/terrain/ground/distance/cultivated_distance_diffuse.png"/>
+    <File fileId="286" filename="$data/maps/textures/terrain/ground/distance/directSownFertilized_distance_diffuse.png"/>
+    <File fileId="274" filename="$data/maps/textures/terrain/ground/distance/directSown_distance_diffuse.png"/>
+    <File fileId="279" filename="$data/maps/textures/terrain/ground/distance/fertilizer_distance_diffuse.png"/>
+    <File fileId="290" filename="$data/maps/textures/terrain/ground/distance/grassCutFertilized_distance_diffuse.png"/>
+    <File fileId="278" filename="$data/maps/textures/terrain/ground/distance/grassCut_distance_diffuse.png"/>
+    <File fileId="289" filename="$data/maps/textures/terrain/ground/distance/grassFertilized_distance_diffuse.png"/>
+    <File fileId="277" filename="$data/maps/textures/terrain/ground/distance/grass_distance_diffuse.png"/>
+    <File fileId="287" filename="$data/maps/textures/terrain/ground/distance/harvestReadyFertilized_distance_diffuse.png"/>
+    <File fileId="288" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOtherFertilized_distance_diffuse.png"/>
+    <File fileId="276" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOther_distance_diffuse.png"/>
+    <File fileId="275" filename="$data/maps/textures/terrain/ground/distance/harvestReady_distance_diffuse.png"/>
+    <File fileId="282" filename="$data/maps/textures/terrain/ground/distance/lime_distance_diffuse.png"/>
+    <File fileId="281" filename="$data/maps/textures/terrain/ground/distance/liquidManure_distance_diffuse.png"/>
+    <File fileId="284" filename="$data/maps/textures/terrain/ground/distance/maizeChopper_distance_diffuse.png"/>
+    <File fileId="280" filename="$data/maps/textures/terrain/ground/distance/manure_distance_diffuse.png"/>
+    <File fileId="283" filename="$data/maps/textures/terrain/ground/distance/straw_distance_diffuse.png"/>
+    <File fileId="285" filename="$data/maps/textures/terrain/ground/distance/stubbleTillageFertilized_distance_diffuse.png"/>
+    <File fileId="272" filename="$data/maps/textures/terrain/ground/distance/stubbleTillage_distance_diffuse.png"/>
     <File fileId="205" filename="$data/maps/textures/terrain/ground/groundType_cultivated_diffuse.png"/>
     <File fileId="206" filename="$data/maps/textures/terrain/ground/groundType_cultivated_normal.png"/>
     <File fileId="215" filename="$data/maps/textures/terrain/ground/groundType_directSown_diffuse.png"/>
@@ -221,22 +221,23 @@
     <File fileId="232" filename="$data/maps/textures/terrain/ground/spray_manure_normal.png"/>
     <File fileId="237" filename="$data/maps/textures/terrain/ground/spray_straw_diffuse.png"/>
     <File fileId="238" filename="$data/maps/textures/terrain/ground/spray_straw_normal.png"/>
-    <File fileId="301" filename="$data/shaders/glowShader.xml"/>
-    <File fileId="294" filename="$data/shaders/groundHeightShader.xml"/>
+    <File fileId="302" filename="$data/shaders/glowShader.xml"/>
+    <File fileId="295" filename="$data/shaders/groundHeightShader.xml"/>
     <File fileId="2" filename="$data/shaders/terrainShader.xml"/>
-    <File fileId="300" filename="$data/shared/assets/marker/markerIcons_diffuse.png"/>
-    <File fileId="295" filename="$data/shared/groundHeightNoise.dds"/>
-    <File fileId="296" filename="data/densityMap_fruits.gdm"/>
-    <File fileId="270" filename="data/densityMap_ground.gdm"/>
-    <File fileId="290" filename="data/densityMap_height.gdm"/>
-    <File fileId="298" filename="data/densityMap_stones.gdm"/>
-    <File fileId="297" filename="data/densityMap_weed.gdm"/>
+    <File fileId="301" filename="$data/shared/assets/marker/markerIcons_diffuse.png"/>
+    <File fileId="296" filename="$data/shared/groundHeightNoise.dds"/>
+    <File fileId="297" filename="data/densityMap_fruits.gdm"/>
+    <File fileId="271" filename="data/densityMap_ground.gdm"/>
+    <File fileId="291" filename="data/densityMap_height.gdm"/>
+    <File fileId="299" filename="data/densityMap_stones.gdm"/>
+    <File fileId="298" filename="data/densityMap_weed.gdm"/>
     <File fileId="241" filename="data/infoLayer_farmland.grle"/>
-    <File fileId="242" filename="data/infoLayer_indoorMask.grle"/>
-    <File fileId="243" filename="data/infoLayer_navigationCollision.grle"/>
-    <File fileId="246" filename="data/infoLayer_placementCollisionGenerated.grle"/>
-    <File fileId="244" filename="data/infoLayer_tipCollision.grle"/>
-    <File fileId="245" filename="data/infoLayer_tipCollisionGenerated.grle"/>
+    <File fileId="242" filename="data/infoLayer_fieldDimensions.grle"/>
+    <File fileId="243" filename="data/infoLayer_indoorMask.grle"/>
+    <File fileId="244" filename="data/infoLayer_navigationCollision.grle"/>
+    <File fileId="247" filename="data/infoLayer_placementCollisionGenerated.grle"/>
+    <File fileId="245" filename="data/infoLayer_tipCollision.grle"/>
+    <File fileId="246" filename="data/infoLayer_tipCollisionGenerated.grle"/>
     <File fileId="164" filename="data/mapHautBeyleron/animalMud01_weight.png"/>
     <File fileId="167" filename="data/mapHautBeyleron/animalMud02_weight.png"/>
     <File fileId="170" filename="data/mapHautBeyleron/animalMud03_weight.png"/>
@@ -311,16 +312,16 @@
   <Materials>
     <Material name="default_mat" materialId="4" diffuseColor="0.4 0.4 0.4 1">
     </Material>
-    <Material name="groundDetailHeight_mat" materialId="5" customShaderId="294">
-      <Texture fileId="291"/>
-      <Normalmap fileId="292"/>
-      <Glossmap fileId="293"/>
-      <Custommap name="heightNoiseMap" fileId="295"/>
+    <Material name="groundDetailHeight_mat" materialId="5" customShaderId="295">
+      <Texture fileId="292"/>
+      <Normalmap fileId="293"/>
+      <Glossmap fileId="294"/>
+      <Custommap name="heightNoiseMap" fileId="296"/>
       <CustomParameter name="alphaBlendStartEnd_densityUVScale" value="75 80 4 4"/>
       <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="4096 0.000244141 0.5 0.00389105"/>
     </Material>
-    <Material name="markerIcons_mat" materialId="6" alphaBlending="true" customShaderId="301" customShaderVariation="additive_billboard_pulsating">
-      <Emissivemap fileId="300"/>
+    <Material name="markerIcons_mat" materialId="6" alphaBlending="true" customShaderId="302" customShaderVariation="additive_billboard_pulsating">
+      <Emissivemap fileId="301"/>
       <CustomParameter name="lightControl" value="1 0 0 0"/>
       <CustomParameter name="pulseSpeed" value="3 0 0 0"/>
     </Material>
@@ -347,7 +348,7 @@
   <Scene>
       <Light name="sun" translation="0 400 0" rotation="-35.393 51.396 20.805" objectMask="67043328" nodeId="11" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.0005" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" pcssLightSize="50" pcssLightDistance="50" pcssDepthBiasFactor="1" pcssMaxPenumbraSize="1" shadowPerspective="true" numShadowMapSplits="5" shadowMapSplitDistance0="20.7462" shadowMapSplitDistance1="46.4883" shadowMapSplitDistance2="120" shadowMapSplitDistance3="314" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
       <TransformGroup name="cameras" visibility="false" nodeId="12">
-        <Camera name="Landscaping" translation="-66.7821 1276.73 -300.597" rotation="-85.6438 -0.114815 1.605e-08" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
+        <Camera name="Landscaping" translation="-12.4065 715.625 219.039" rotation="-72.5831 -0.806008 4.11836e-06" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
         <Camera name="PDA" translation="0 700 0" rotation="-90 0 0" nodeId="14" fov="60" nearClip="100" farClip="900" orthographic="true" orthographicHeight="2100"/>
       </TransformGroup>
       <TerrainTransformGroup name="terrain" static="true" collisionMask="524255" nodeId="16" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="2048" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occLevel="1" occFaceCount="100" occMaxHausdorffDistance="10" occMaxHausdorffDistanceExtra="10" occMinHorizontalDistance="1" occDistanceWeight="1">
@@ -721,17 +722,275 @@
               <Option value="255" name="Farmland 255"/>
             </Group>
           </InfoLayer>
-          <InfoLayer name="indoorMask" fileId="242" numChannels="1" runtime="true">
+          <InfoLayer name="fieldDimensions" fileId="242" numChannels="8" runtime="true">
+            <Group name="Fields" firstChannel="0" numChannels="8" >
+              <Option value="1" name="Field 1"/>
+              <Option value="2" name="Field 2"/>
+              <Option value="3" name="Field 3"/>
+              <Option value="4" name="Field 4"/>
+              <Option value="5" name="Field 5"/>
+              <Option value="6" name="Field 6"/>
+              <Option value="7" name="Field 7"/>
+              <Option value="8" name="Field 8"/>
+              <Option value="9" name="Field 9"/>
+              <Option value="10" name="Field 10"/>
+              <Option value="11" name="Field 11"/>
+              <Option value="12" name="Field 12"/>
+              <Option value="13" name="Field 13"/>
+              <Option value="14" name="Field 14"/>
+              <Option value="15" name="Field 15"/>
+              <Option value="16" name="Field 16"/>
+              <Option value="17" name="Field 17"/>
+              <Option value="18" name="Field 18"/>
+              <Option value="19" name="Field 19"/>
+              <Option value="20" name="Field 20"/>
+              <Option value="21" name="Field 21"/>
+              <Option value="22" name="Field 22"/>
+              <Option value="23" name="Field 23"/>
+              <Option value="24" name="Field 24"/>
+              <Option value="25" name="Field 25"/>
+              <Option value="26" name="Field 26"/>
+              <Option value="27" name="Field 27"/>
+              <Option value="28" name="Field 28"/>
+              <Option value="29" name="Field 29"/>
+              <Option value="30" name="Field 30"/>
+              <Option value="31" name="Field 31"/>
+              <Option value="32" name="Field 32"/>
+              <Option value="33" name="Field 33"/>
+              <Option value="34" name="Field 34"/>
+              <Option value="35" name="Field 35"/>
+              <Option value="36" name="Field 36"/>
+              <Option value="37" name="Field 37"/>
+              <Option value="38" name="Field 38"/>
+              <Option value="39" name="Field 39"/>
+              <Option value="40" name="Field 40"/>
+              <Option value="41" name="Field 41"/>
+              <Option value="42" name="Field 42"/>
+              <Option value="43" name="Field 43"/>
+              <Option value="44" name="Field 44"/>
+              <Option value="45" name="Field 45"/>
+              <Option value="46" name="Field 46"/>
+              <Option value="47" name="Field 47"/>
+              <Option value="48" name="Field 48"/>
+              <Option value="49" name="Field 49"/>
+              <Option value="50" name="Field 50"/>
+              <Option value="51" name="Field 51"/>
+              <Option value="52" name="Field 52"/>
+              <Option value="53" name="Field 53"/>
+              <Option value="54" name="Field 54"/>
+              <Option value="55" name="Field 55"/>
+              <Option value="56" name="Field 56"/>
+              <Option value="57" name="Field 57"/>
+              <Option value="58" name="Field 58"/>
+              <Option value="59" name="Field 59"/>
+              <Option value="60" name="Field 60"/>
+              <Option value="61" name="Field 61"/>
+              <Option value="62" name="Field 62"/>
+              <Option value="63" name="Field 63"/>
+              <Option value="64" name="Field 64"/>
+              <Option value="65" name="Field 65"/>
+              <Option value="66" name="Field 66"/>
+              <Option value="67" name="Field 67"/>
+              <Option value="68" name="Field 68"/>
+              <Option value="69" name="Field 69"/>
+              <Option value="70" name="Field 70"/>
+              <Option value="71" name="Field 71"/>
+              <Option value="72" name="Field 72"/>
+              <Option value="73" name="Field 73"/>
+              <Option value="74" name="Field 74"/>
+              <Option value="75" name="Field 75"/>
+              <Option value="76" name="Field 76"/>
+              <Option value="77" name="Field 77"/>
+              <Option value="78" name="Field 78"/>
+              <Option value="79" name="Field 79"/>
+              <Option value="80" name="Field 80"/>
+              <Option value="81" name="Field 81"/>
+              <Option value="82" name="Field 82"/>
+              <Option value="83" name="Field 83"/>
+              <Option value="84" name="Field 84"/>
+              <Option value="85" name="Field 85"/>
+              <Option value="86" name="Field 86"/>
+              <Option value="87" name="Field 87"/>
+              <Option value="88" name="Field 88"/>
+              <Option value="89" name="Field 89"/>
+              <Option value="90" name="Field 90"/>
+              <Option value="91" name="Field 91"/>
+              <Option value="92" name="Field 92"/>
+              <Option value="93" name="Field 93"/>
+              <Option value="94" name="Field 94"/>
+              <Option value="95" name="Field 95"/>
+              <Option value="96" name="Field 96"/>
+              <Option value="97" name="Field 97"/>
+              <Option value="98" name="Field 98"/>
+              <Option value="99" name="Field 99"/>
+              <Option value="100" name="Field 100"/>
+              <Option value="101" name="Field 101"/>
+              <Option value="102" name="Field 102"/>
+              <Option value="103" name="Field 103"/>
+              <Option value="104" name="Field 104"/>
+              <Option value="105" name="Field 105"/>
+              <Option value="106" name="Field 106"/>
+              <Option value="107" name="Field 107"/>
+              <Option value="108" name="Field 108"/>
+              <Option value="109" name="Field 109"/>
+              <Option value="110" name="Field 110"/>
+              <Option value="111" name="Field 111"/>
+              <Option value="112" name="Field 112"/>
+              <Option value="113" name="Field 113"/>
+              <Option value="114" name="Field 114"/>
+              <Option value="115" name="Field 115"/>
+              <Option value="116" name="Field 116"/>
+              <Option value="117" name="Field 117"/>
+              <Option value="118" name="Field 118"/>
+              <Option value="119" name="Field 119"/>
+              <Option value="120" name="Field 120"/>
+              <Option value="121" name="Field 121"/>
+              <Option value="122" name="Field 122"/>
+              <Option value="123" name="Field 123"/>
+              <Option value="124" name="Field 124"/>
+              <Option value="125" name="Field 125"/>
+              <Option value="126" name="Field 126"/>
+              <Option value="127" name="Field 127"/>
+              <Option value="128" name="Field 128"/>
+              <Option value="129" name="Field 129"/>
+              <Option value="130" name="Field 130"/>
+              <Option value="131" name="Field 131"/>
+              <Option value="132" name="Field 132"/>
+              <Option value="133" name="Field 133"/>
+              <Option value="134" name="Field 134"/>
+              <Option value="135" name="Field 135"/>
+              <Option value="136" name="Field 136"/>
+              <Option value="137" name="Field 137"/>
+              <Option value="138" name="Field 138"/>
+              <Option value="139" name="Field 139"/>
+              <Option value="140" name="Field 140"/>
+              <Option value="141" name="Field 141"/>
+              <Option value="142" name="Field 142"/>
+              <Option value="143" name="Field 143"/>
+              <Option value="144" name="Field 144"/>
+              <Option value="145" name="Field 145"/>
+              <Option value="146" name="Field 146"/>
+              <Option value="147" name="Field 147"/>
+              <Option value="148" name="Field 148"/>
+              <Option value="149" name="Field 149"/>
+              <Option value="150" name="Field 150"/>
+              <Option value="151" name="Field 151"/>
+              <Option value="152" name="Field 152"/>
+              <Option value="153" name="Field 153"/>
+              <Option value="154" name="Field 154"/>
+              <Option value="155" name="Field 155"/>
+              <Option value="156" name="Field 156"/>
+              <Option value="157" name="Field 157"/>
+              <Option value="158" name="Field 158"/>
+              <Option value="159" name="Field 159"/>
+              <Option value="160" name="Field 160"/>
+              <Option value="161" name="Field 161"/>
+              <Option value="162" name="Field 162"/>
+              <Option value="163" name="Field 163"/>
+              <Option value="164" name="Field 164"/>
+              <Option value="165" name="Field 165"/>
+              <Option value="166" name="Field 166"/>
+              <Option value="167" name="Field 167"/>
+              <Option value="168" name="Field 168"/>
+              <Option value="169" name="Field 169"/>
+              <Option value="170" name="Field 170"/>
+              <Option value="171" name="Field 171"/>
+              <Option value="172" name="Field 172"/>
+              <Option value="173" name="Field 173"/>
+              <Option value="174" name="Field 174"/>
+              <Option value="175" name="Field 175"/>
+              <Option value="176" name="Field 176"/>
+              <Option value="177" name="Field 177"/>
+              <Option value="178" name="Field 178"/>
+              <Option value="179" name="Field 179"/>
+              <Option value="180" name="Field 180"/>
+              <Option value="181" name="Field 181"/>
+              <Option value="182" name="Field 182"/>
+              <Option value="183" name="Field 183"/>
+              <Option value="184" name="Field 184"/>
+              <Option value="185" name="Field 185"/>
+              <Option value="186" name="Field 186"/>
+              <Option value="187" name="Field 187"/>
+              <Option value="188" name="Field 188"/>
+              <Option value="189" name="Field 189"/>
+              <Option value="190" name="Field 190"/>
+              <Option value="191" name="Field 191"/>
+              <Option value="192" name="Field 192"/>
+              <Option value="193" name="Field 193"/>
+              <Option value="194" name="Field 194"/>
+              <Option value="195" name="Field 195"/>
+              <Option value="196" name="Field 196"/>
+              <Option value="197" name="Field 197"/>
+              <Option value="198" name="Field 198"/>
+              <Option value="199" name="Field 199"/>
+              <Option value="200" name="Field 200"/>
+              <Option value="201" name="Field 201"/>
+              <Option value="202" name="Field 202"/>
+              <Option value="203" name="Field 203"/>
+              <Option value="204" name="Field 204"/>
+              <Option value="205" name="Field 205"/>
+              <Option value="206" name="Field 206"/>
+              <Option value="207" name="Field 207"/>
+              <Option value="208" name="Field 208"/>
+              <Option value="209" name="Field 209"/>
+              <Option value="210" name="Field 210"/>
+              <Option value="211" name="Field 211"/>
+              <Option value="212" name="Field 212"/>
+              <Option value="213" name="Field 213"/>
+              <Option value="214" name="Field 214"/>
+              <Option value="215" name="Field 215"/>
+              <Option value="216" name="Field 216"/>
+              <Option value="217" name="Field 217"/>
+              <Option value="218" name="Field 218"/>
+              <Option value="219" name="Field 219"/>
+              <Option value="220" name="Field 220"/>
+              <Option value="221" name="Field 221"/>
+              <Option value="222" name="Field 222"/>
+              <Option value="223" name="Field 223"/>
+              <Option value="224" name="Field 224"/>
+              <Option value="225" name="Field 225"/>
+              <Option value="226" name="Field 226"/>
+              <Option value="227" name="Field 227"/>
+              <Option value="228" name="Field 228"/>
+              <Option value="229" name="Field 229"/>
+              <Option value="230" name="Field 230"/>
+              <Option value="231" name="Field 231"/>
+              <Option value="232" name="Field 232"/>
+              <Option value="233" name="Field 233"/>
+              <Option value="234" name="Field 234"/>
+              <Option value="235" name="Field 235"/>
+              <Option value="236" name="Field 236"/>
+              <Option value="237" name="Field 237"/>
+              <Option value="238" name="Field 238"/>
+              <Option value="239" name="Field 239"/>
+              <Option value="240" name="Field 240"/>
+              <Option value="241" name="Field 241"/>
+              <Option value="242" name="Field 242"/>
+              <Option value="243" name="Field 243"/>
+              <Option value="244" name="Field 244"/>
+              <Option value="245" name="Field 245"/>
+              <Option value="246" name="Field 246"/>
+              <Option value="247" name="Field 247"/>
+              <Option value="248" name="Field 248"/>
+              <Option value="249" name="Field 249"/>
+              <Option value="250" name="Field 250"/>
+              <Option value="251" name="Field 251"/>
+              <Option value="252" name="Field 252"/>
+              <Option value="253" name="Field 253"/>
+              <Option value="254" name="Field 254"/>
+            </Group>
+          </InfoLayer>
+          <InfoLayer name="indoorMask" fileId="243" numChannels="1" runtime="true">
             <Group name="State" firstChannel="0" numChannels="1" >
               <Option value="0" name="Outdoor"/>
               <Option value="1" name="Indoor"/>
             </Group>
           </InfoLayer>
-          <InfoLayer name="navigationCollision" fileId="243" numChannels="1" runtime="true"/>
-          <InfoLayer name="tipCollision" fileId="244" numChannels="1" runtime="true"/>
-          <InfoLayer name="tipCollisionGenerated" fileId="245" numChannels="2" runtime="true"/>
-          <InfoLayer name="placementCollisionGenerated" fileId="246" numChannels="1" runtime="true"/>
-          <DetailLayer name="terrainDetail" densityMapId="270" numDensityMapChannels="10" compressionChannels="10" cellSize="8" objectMask="16711935" decalLayer="1" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 4 0;4 3 0;7 3 0">
+          <InfoLayer name="navigationCollision" fileId="244" numChannels="1" runtime="true"/>
+          <InfoLayer name="tipCollision" fileId="245" numChannels="1" runtime="true"/>
+          <InfoLayer name="tipCollisionGenerated" fileId="246" numChannels="2" runtime="true"/>
+          <InfoLayer name="placementCollisionGenerated" fileId="247" numChannels="1" runtime="true"/>
+          <DetailLayer name="terrainDetail" densityMapId="271" numDensityMapChannels="10" compressionChannels="10" cellSize="8" objectMask="16711935" decalLayer="1" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 4 0;4 3 0;7 3 0">
             <Group name="GroundType" firstChannel="0" numChannels="4" >
               <Option value="1" name="Stubble Tillage"/>
               <Option value="2" name="Cultivated"/>
@@ -765,83 +1024,103 @@
               <Option value="5" name="Straw Chopper"/>
               <Option value="6" name="Maize Chopper"/>
             </Group>
-            <DistanceTexture match="1;*;0" fileId="271"/>
-            <DistanceTexture match="2;*;0" fileId="272"/>
-            <DistanceTexture match="3;*;0" fileId="272"/>
-            <DistanceTexture match="4;*;0" fileId="272"/>
-            <DistanceTexture match="5;*;0" fileId="272"/>
-            <DistanceTexture match="6;*;0" fileId="272"/>
-            <DistanceTexture match="7;*;0" fileId="273"/>
-            <DistanceTexture match="8;*;0" fileId="272"/>
-            <DistanceTexture match="9;*;0" fileId="272"/>
-            <DistanceTexture match="10;*;0" fileId="272"/>
-            <DistanceTexture match="11;*;0" fileId="274"/>
-            <DistanceTexture match="12;*;0" fileId="275"/>
-            <DistanceTexture match="13;*;0" fileId="276"/>
-            <DistanceTexture match="14;*;0" fileId="277"/>
-            <DistanceTexture match="*;*;1" fileId="278"/>
-            <DistanceTexture match="*;*;2" fileId="279"/>
-            <DistanceTexture match="*;*;3" fileId="280"/>
-            <DistanceTexture match="*;*;4" fileId="281"/>
-            <DistanceTexture match="*;*;5" fileId="282"/>
-            <DistanceTexture match="*;*;6" fileId="283"/>
-            <DistanceTexture match="1;*;1" fileId="284"/>
-            <DistanceTexture match="7;*;1" fileId="285"/>
-            <DistanceTexture match="11;*;1" fileId="286"/>
-            <DistanceTexture match="12;*;1" fileId="287"/>
-            <DistanceTexture match="13;*;1" fileId="288"/>
-            <DistanceTexture match="14;*;1" fileId="289"/>
+            <DistanceTexture match="1;*;0" fileId="272"/>
+            <DistanceTexture match="2;*;0" fileId="273"/>
+            <DistanceTexture match="3;*;0" fileId="273"/>
+            <DistanceTexture match="4;*;0" fileId="273"/>
+            <DistanceTexture match="5;*;0" fileId="273"/>
+            <DistanceTexture match="6;*;0" fileId="273"/>
+            <DistanceTexture match="7;*;0" fileId="274"/>
+            <DistanceTexture match="8;*;0" fileId="273"/>
+            <DistanceTexture match="9;*;0" fileId="273"/>
+            <DistanceTexture match="10;*;0" fileId="273"/>
+            <DistanceTexture match="11;*;0" fileId="275"/>
+            <DistanceTexture match="12;*;0" fileId="276"/>
+            <DistanceTexture match="13;*;0" fileId="277"/>
+            <DistanceTexture match="14;*;0" fileId="278"/>
+            <DistanceTexture match="*;*;1" fileId="279"/>
+            <DistanceTexture match="*;*;2" fileId="280"/>
+            <DistanceTexture match="*;*;3" fileId="281"/>
+            <DistanceTexture match="*;*;4" fileId="282"/>
+            <DistanceTexture match="*;*;5" fileId="283"/>
+            <DistanceTexture match="*;*;6" fileId="284"/>
+            <DistanceTexture match="1;*;1" fileId="285"/>
+            <DistanceTexture match="7;*;1" fileId="286"/>
+            <DistanceTexture match="11;*;1" fileId="287"/>
+            <DistanceTexture match="12;*;1" fileId="288"/>
+            <DistanceTexture match="13;*;1" fileId="289"/>
+            <DistanceTexture match="14;*;1" fileId="290"/>
           </DetailLayer>
-          <DetailLayer name="terrainDetailHeight" densityMapId="290" numDensityMapChannels="12" compressionChannels="6" cellSize="8" objectMask="16711935" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 6 0" heightFirstChannel="6" heightNumChannels="6" maxHeight="4"/>
+          <DetailLayer name="terrainDetailHeight" densityMapId="291" numDensityMapChannels="12" compressionChannels="6" cellSize="8" objectMask="16711935" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 6 0" heightFirstChannel="6" heightNumChannels="6" maxHeight="4"/>
           <FoliageSystem cellSize="8" objectMask="16711935" decalLayer="0">
-            <FoliageMultiLayer densityMapId="296" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
-              <FoliageType name="decoFoliage" foliageXmlId="247"/>
-              <FoliageType name="groundFoliage" foliageXmlId="248"/>
-              <FoliageType name="decoBush" foliageXmlId="249"/>
-              <FoliageType name="meadow" foliageXmlId="250"/>
-              <FoliageType name="grass" foliageXmlId="251"/>
-              <FoliageType name="wheat" foliageXmlId="252"/>
-              <FoliageType name="canola" foliageXmlId="253"/>
-              <FoliageType name="barley" foliageXmlId="254"/>
-              <FoliageType name="maize" foliageXmlId="255"/>
-              <FoliageType name="potato" foliageXmlId="256"/>
-              <FoliageType name="sugarBeet" foliageXmlId="257"/>
-              <FoliageType name="sunflower" foliageXmlId="258"/>
-              <FoliageType name="soybean" foliageXmlId="259"/>
-              <FoliageType name="oilseedRadish" foliageXmlId="260"/>
-              <FoliageType name="poplar" foliageXmlId="261"/>
-              <FoliageType name="oat" foliageXmlId="262"/>
-              <FoliageType name="sugarCane" foliageXmlId="263"/>
-              <FoliageType name="cotton" foliageXmlId="264"/>
-              <FoliageType name="sorghum" foliageXmlId="265"/>
-              <FoliageType name="olive" foliageXmlId="266"/>
-              <FoliageType name="grape" foliageXmlId="267"/>
+            <FoliageMultiLayer densityMapId="297" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
+              <FoliageType name="decoFoliage" foliageXmlId="248"/>
+              <FoliageType name="groundFoliage" foliageXmlId="249"/>
+              <FoliageType name="decoBush" foliageXmlId="250"/>
+              <FoliageType name="meadow" foliageXmlId="251"/>
+              <FoliageType name="grass" foliageXmlId="252"/>
+              <FoliageType name="wheat" foliageXmlId="253"/>
+              <FoliageType name="canola" foliageXmlId="254"/>
+              <FoliageType name="barley" foliageXmlId="255"/>
+              <FoliageType name="maize" foliageXmlId="256"/>
+              <FoliageType name="potato" foliageXmlId="257"/>
+              <FoliageType name="sugarBeet" foliageXmlId="258"/>
+              <FoliageType name="sunflower" foliageXmlId="259"/>
+              <FoliageType name="soybean" foliageXmlId="260"/>
+              <FoliageType name="oilseedRadish" foliageXmlId="261"/>
+              <FoliageType name="poplar" foliageXmlId="262"/>
+              <FoliageType name="oat" foliageXmlId="263"/>
+              <FoliageType name="sugarCane" foliageXmlId="264"/>
+              <FoliageType name="cotton" foliageXmlId="265"/>
+              <FoliageType name="sorghum" foliageXmlId="266"/>
+              <FoliageType name="olive" foliageXmlId="267"/>
+              <FoliageType name="grape" foliageXmlId="268"/>
             </FoliageMultiLayer>
-            <FoliageMultiLayer densityMapId="297" numChannels="4" numTypeIndexChannels="0">
-              <FoliageType name="weed" foliageXmlId="268"/>
+            <FoliageMultiLayer densityMapId="298" numChannels="4" numTypeIndexChannels="0">
+              <FoliageType name="weed" foliageXmlId="269"/>
             </FoliageMultiLayer>
-            <FoliageMultiLayer densityMapId="298" numChannels="3" numTypeIndexChannels="0">
-              <FoliageType name="stone" foliageXmlId="269"/>
+            <FoliageMultiLayer densityMapId="299" numChannels="3" numTypeIndexChannels="0">
+              <FoliageType name="stone" foliageXmlId="270"/>
             </FoliageMultiLayer>
           </FoliageSystem>
         </Layers>
       </TerrainTransformGroup>
-      <TransformGroup name="gameplay" nodeId="539">
-        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="540"/>
-        <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="541">
-          <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="542">
-            <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="543"/>
+      <TransformGroup name="gameplay" nodeId="540">
+        <TransformGroup name="careerStartPoint" translation="0 50 0" nodeId="541"/>
+        <TransformGroup name="vehicleShop" translation="0 50 0" nodeId="542">
+          <TransformGroup name="storeSpawnPlace1Start" translation="-10 0 -10" nodeId="543">
+            <TransformGroup name="storeSpawnPlace1End" translation="20 0 0" nodeId="544"/>
           </TransformGroup>
-          <TransformGroup name="storeSpawnPlace2Start" translation="-10 0 10" nodeId="544">
-            <TransformGroup name="storeSpawnPlace2End" translation="20 0 0" nodeId="545"/>
+          <TransformGroup name="storeSpawnPlace2Start" translation="-10 0 10" nodeId="545">
+            <TransformGroup name="storeSpawnPlace2End" translation="20 0 0" nodeId="546"/>
           </TransformGroup>
-          <Shape shapeId="1" name="vehicleShopTrigger" static="true" trigger="true" collisionMask="3145728" nodeId="546" materialIds="4" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <TransformGroup name="markerIconShopping" nodeId="547">
-              <Shape shapeId="2" name="iconShopping" translation="0 1 0" clipDistance="300" nodeId="548" materialIds="6" castsShadows="true" receiveShadows="true"/>
-              <Light name="pointLight7" translation="0 1 0" clipDistance="100" nodeId="549" type="point" color="0 0.35 0.9" emitDiffuse="true" emitSpecular="true" range="2.5"/>
+          <Shape shapeId="1" name="vehicleShopTrigger" static="true" trigger="true" collisionMask="3145728" nodeId="547" materialIds="4" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <TransformGroup name="markerIconShopping" nodeId="548">
+              <Shape shapeId="2" name="iconShopping" translation="0 1 0" clipDistance="300" nodeId="549" materialIds="6" castsShadows="true" receiveShadows="true"/>
+              <Light name="pointLight7" translation="0 1 0" clipDistance="100" nodeId="550" type="point" color="0 0.35 0.9" emitDiffuse="true" emitSpecular="true" range="2.5"/>
             </TransformGroup>
-            <TransformGroup name="vehicleShopPlayerSpawn" translation="-4 0.8 0" rotation="0 -70 0" nodeId="550"/>
+            <TransformGroup name="vehicleShopPlayerSpawn" translation="-4 0.8 0" rotation="0 -70 0" nodeId="551"/>
           </Shape>
+        </TransformGroup>
+        <TransformGroup name="fields" translation="0 50 0" nodeId="552">
+          <TransformGroup name="field001" translation="0 -50 0" nodeId="14351">
+            <TransformGroup name="fieldDimensions" nodeId="14352">
+              <TransformGroup name="corner01_1" translation="-250 0 -100" nodeId="14353">
+                <TransformGroup name="corner01_2" translation="200 0 0" nodeId="14354"/>
+                <TransformGroup name="corner01_3" translation="200 0 200" nodeId="14355"/>
+              </TransformGroup>
+            </TransformGroup>
+            <TransformGroup name="fieldMapIndicator" translation="-150 0 0" nodeId="14356"/>
+          </TransformGroup>
+          <TransformGroup name="field002" translation="0 -50 0" nodeId="14357">
+            <TransformGroup name="fieldDimensions" nodeId="14358">
+              <TransformGroup name="corner01_1" translation="50 0 -100" nodeId="14359">
+                <TransformGroup name="corner01_2" translation="200 0 0" nodeId="14360"/>
+                <TransformGroup name="corner01_3" translation="200 0 200" nodeId="14361"/>
+              </TransformGroup>
+            </TransformGroup>
+            <TransformGroup name="fieldMapIndicator" translation="150 0 0" nodeId="14362"/>
+          </TransformGroup>
         </TransformGroup>
       </TransformGroup>
   </Scene>
@@ -850,19 +1129,34 @@
     <UserAttribute nodeId="11">
       <Attribute name="onCreate" type="scriptCallback" value="Environment.onCreateSunLight"/>
     </UserAttribute>
-    <UserAttribute nodeId="540">
+    <UserAttribute nodeId="541">
       <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
     </UserAttribute>
-    <UserAttribute nodeId="542">
+    <UserAttribute nodeId="543">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>
-    <UserAttribute nodeId="544">
+    <UserAttribute nodeId="545">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>
-    <UserAttribute nodeId="546">
+    <UserAttribute nodeId="547">
       <Attribute name="onCreate" type="scriptCallback" value="ShopTrigger.onCreate"/>
+    </UserAttribute>
+    <UserAttribute nodeId="552">
+      <Attribute name="onCreate" type="scriptCallback" value="FieldUtil.onCreate"/>
+    </UserAttribute>
+    <UserAttribute nodeId="14351">
+      <Attribute name="fieldAngle" type="integer" value="0"/>
+      <Attribute name="fieldDimensionIndex" type="integer" value="0"/>
+      <Attribute name="fieldGrassMission" type="boolean" value="false"/>
+      <Attribute name="nameIndicatorIndex" type="integer" value="1"/>
+    </UserAttribute>
+    <UserAttribute nodeId="14357">
+      <Attribute name="fieldAngle" type="integer" value="90"/>
+      <Attribute name="fieldDimensionIndex" type="integer" value="0"/>
+      <Attribute name="fieldGrassMission" type="boolean" value="true"/>
+      <Attribute name="nameIndicatorIndex" type="integer" value="1"/>
     </UserAttribute>
   </UserAttributes>
 
