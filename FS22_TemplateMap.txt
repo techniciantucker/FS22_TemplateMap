@@ -1,6 +1,7 @@
 Features
 - Increase farmland limit to 255
 - Import script FieldDimension
+- Import script FoliageCreator
 - Add camera for PDA Map
 - Add all NPC's from Giants Maps including german names
 - Add ingame helpline icons
@@ -11,7 +12,7 @@ ToDo
 - Create dummy for different views
 - Improve and delete references to default Giants Mod MapFR
 - Add InfoLayer SoilMap for Precision Farming DLC
-- Import script FoliageCreator
+
 - Create new settings for FoliageCreator
 - Add all paintable textures from Giants Maps
 - Add all trees from Giants Maps
@@ -19,6 +20,7 @@ ToDo
 - Add additional paintable deco foliages from Giants Editor including store pictures
 - Add additional paintable ground foliages from Giants Editor including store pictures
 - Add additional paintable materials like stones from Giants Editor including store pictures
+- Increase ground angle (8 to 32)
 - Add all buildable farmhouses
 - Create map border
 - Add usable german license plate
@@ -51,3 +53,4 @@ Commits
 0010 - Increase farmland limit to 255
 0011 - Import all NPC's from Giants Maps including german names
 0012 - Import script FieldDimension
+0013 - Import script FoliageCreator
