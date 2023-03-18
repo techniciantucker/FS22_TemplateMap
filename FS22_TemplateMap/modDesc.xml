@@ -25,4 +25,7 @@
             <iconFilename>preview_TemplateMap.png</iconFilename>
         </map>
     </maps>
+
+	<l10n filenamePrefix="maps/localization/l10n"/> 
+	
 </modDesc>

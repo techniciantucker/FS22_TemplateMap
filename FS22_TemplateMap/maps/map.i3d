@@ -350,7 +350,7 @@
   <Scene>
       <Light name="sun" translation="0 400 0" rotation="-35.393 51.396 20.805" objectMask="67043328" nodeId="11" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.0005" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" pcssLightSize="50" pcssLightDistance="50" pcssDepthBiasFactor="1" pcssMaxPenumbraSize="1" shadowPerspective="true" numShadowMapSplits="5" shadowMapSplitDistance0="20.7462" shadowMapSplitDistance1="46.4883" shadowMapSplitDistance2="120" shadowMapSplitDistance3="314" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
       <TransformGroup name="cameras" visibility="false" nodeId="12">
-        <Camera name="Landscaping" translation="11.1951 1379.48 1127.28" rotation="-68.9177 -3.90235 2.08925e-07" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
+        <Camera name="Landscaping" translation="0.983285 69.4439 81.5334" rotation="-30.8737 -6.42334 9.22933e-08" nodeId="13" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
         <Camera name="PDA" translation="0 700 0" rotation="-90 0 0" nodeId="14" fov="60" nearClip="100" farClip="900" orthographic="true" orthographicHeight="2100"/>
       </TransformGroup>
       <TerrainTransformGroup name="terrain" static="true" collisionMask="524255" nodeId="16" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="2048" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occLevel="1" occFaceCount="100" occMaxHausdorffDistance="10" occMaxHausdorffDistanceExtra="10" occMinHorizontalDistance="1" occDistanceWeight="1">
@@ -1112,24 +1112,53 @@
             <TransformGroup name="vehicleShopPlayerSpawn" nodeId="553"/>
           </Shape>
         </TransformGroup>
-        <TransformGroup name="fields" translation="0 50 0" nodeId="554">
-          <TransformGroup name="field001" translation="0 -50 0" nodeId="555">
+        <TransformGroup name="fields" nodeId="554">
+          <TransformGroup name="field001" nodeId="555">
             <TransformGroup name="fieldDimensions" nodeId="556">
-              <TransformGroup name="corner01_1" translation="-250 0 -100" nodeId="557">
+              <TransformGroup name="corner01_1" translation="-250 50 -100" nodeId="557">
                 <TransformGroup name="corner01_2" translation="200 0 0" nodeId="558"/>
                 <TransformGroup name="corner01_3" translation="200 0 200" nodeId="559"/>
               </TransformGroup>
             </TransformGroup>
-            <TransformGroup name="fieldMapIndicator" translation="-150 0 0" nodeId="560"/>
+            <TransformGroup name="fieldMapIndicator" translation="-150 50 0" nodeId="560"/>
           </TransformGroup>
-          <TransformGroup name="field002" translation="0 -50 0" nodeId="561">
+          <TransformGroup name="field002" nodeId="561">
             <TransformGroup name="fieldDimensions" nodeId="562">
-              <TransformGroup name="corner01_1" translation="50 0 -100" nodeId="563">
+              <TransformGroup name="corner01_1" translation="50 50 -100" nodeId="563">
                 <TransformGroup name="corner01_2" translation="200 0 0" nodeId="564"/>
                 <TransformGroup name="corner01_3" translation="200 0 200" nodeId="565"/>
               </TransformGroup>
             </TransformGroup>
-            <TransformGroup name="fieldMapIndicator" translation="150 0 0" nodeId="566"/>
+            <TransformGroup name="fieldMapIndicator" translation="150 50 0" nodeId="566"/>
+          </TransformGroup>
+        </TransformGroup>
+        <TransformGroup name="helpLine" nodeId="14092">
+          <TransformGroup name="default" nodeId="14111">
+            <TransformGroup name="makingMoney" translation="-14 50 0" nodeId="14094"/>
+            <TransformGroup name="shop" translation="-12 50 0" nodeId="14095"/>
+            <TransformGroup name="buyingFieldsAndFarming" translation="-10 50 0" nodeId="14096"/>
+            <TransformGroup name="improvingYield" translation="-8 50 0" nodeId="14097"/>
+            <TransformGroup name="improvingYield" translation="-6 50 0" nodeId="14098"/>
+            <TransformGroup name="grassland" translation="-4 50 0" nodeId="14099"/>
+            <TransformGroup name="grape" translation="-2 50 0" nodeId="14100"/>
+            <TransformGroup name="animals" translation="2 50 0" nodeId="14101"/>
+            <TransformGroup name="forestry" translation="4 50 0" nodeId="14102"/>
+            <TransformGroup name="characterCreation" translation="6 50 0" nodeId="14103"/>
+            <TransformGroup name="wardrobe" translation="8 50 0" nodeId="14104"/>
+            <TransformGroup name="buildMode" translation="10 50 0" nodeId="14105"/>
+            <TransformGroup name="carryObjects" translation="12 50 0" nodeId="14106"/>
+            <TransformGroup name="support" translation="14 50 0" nodeId="14107"/>
+          </TransformGroup>
+          <TransformGroup name="map" nodeId="14108">
+            <TransformGroup name="page1" translation="-8 50 -10" nodeId="14093"/>
+            <TransformGroup name="page2" translation="-6 50 -10" nodeId="14112"/>
+            <TransformGroup name="page3" translation="-4 50 -10" nodeId="14113"/>
+            <TransformGroup name="page4" translation="-2 50 -10" nodeId="14114"/>
+            <TransformGroup name="page5" translation="0 50 -10" nodeId="14115"/>
+            <TransformGroup name="page6" translation="2 50 -10" nodeId="14116"/>
+            <TransformGroup name="page7" translation="4 50 -10" nodeId="14117"/>
+            <TransformGroup name="page8" translation="6 50 -10" nodeId="14119"/>
+            <TransformGroup name="page9" translation="8 50 -10" nodeId="14120"/>
           </TransformGroup>
         </TransformGroup>
       </TransformGroup>

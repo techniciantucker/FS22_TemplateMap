@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<helpLines>
+    <category id="TemplateMap" title="$l10n_TemplateMap">
+        <page title="$l10n_TemplateMap_page01">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page01_part01" />
+            </paragraph>			
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_01.dds" uvs="0px 0px 1024px 1024px" aspectRatio="1"/>
+            </paragraph>
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_01.dds" uvs="0px 0px 1024px 1024px" aspectRatio="1" displaySize="256px 256px"/>
+                <text text="$l10n_TemplateMap_page01_part01" />
+            </paragraph>
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_01.dds" uvs="0px 0px 1024px 1024px" aspectRatio="1" displaySize="256px 256px"/>
+                <text text="$l10n_TemplateMap_page01_part01" alignToImage="true"/>
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page01_part02" />
+            </paragraph>			
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_02.dds" uvs="0px 0px 1024px 683px" aspectRatio="0.667"/>
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page01_part03" />
+            </paragraph>			
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_03.dds" uvs="0px 0px 1024px 256px" aspectRatio="0.25"/>
+			</paragraph>
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_03.dds" uvs="0px 448px 1024px 576px" aspectRatio="0.25"/>
+			</paragraph>
+            <paragraph>
+                <image filename="maps/helpline/helpLine_TemplateMap_03.dds" uvs="0px 448px 1024px 576px" aspectRatio="0.5625"/>
+			</paragraph>			
+            <paragraph>
+                <text text="$l10n_TemplateMap_page01_part03" />
+            </paragraph>	
+        </page>
+        <page title="$l10n_TemplateMap_page02">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page02_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page02_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page02_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page03">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page03_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page03_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page03_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page04">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page04_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page04_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page04_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page05">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page05_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page05_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page05_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page06">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page06_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page06_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page06_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page07">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page07_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page07_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page07_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page08">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page08_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page08_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page08_part03" />
+            </paragraph>
+        </page>
+        <page title="$l10n_TemplateMap_page09">
+            <paragraph>
+                <text text="$l10n_TemplateMap_page09_part01" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page09_part02" />
+            </paragraph>
+            <paragraph>
+                <text text="$l10n_TemplateMap_page09_part03" />
+            </paragraph>
+        </page>
+    </category>
+</helpLines>

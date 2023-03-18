@@ -31,23 +31,33 @@
     <wildlife filename="$dataS/character/wildlifeSpawner.xml" />
     <npcs filename="maps/xml/npcs.xml" />
     <!-- <helpers filename="$data/maps/maps_helpers.xml" /> -->
-    
-    <helpline filename="$dataS/helpLine.xml">
-        <trigger position="-14 50 0"   categoryIndex="1" pageIndex="1" /> <!-- making money -->
-        <trigger position="-12 50 0"    categoryIndex="1" pageIndex="2" /> <!-- shop -->
-        <trigger position="-10 50 0"   categoryIndex="2" pageIndex="1" /> <!-- buying fields and farming -->
-        <trigger position="-8 50 0"  categoryIndex="2" pageIndex="2" /> <!-- improving yield -->
-        <trigger position="-6 50 0"   categoryIndex="3" pageIndex="1" /> <!-- improving yield -->
-        <trigger position="-4 50 0"   categoryIndex="4" pageIndex="1" /> <!-- grassland -->		
-        <trigger position="-2 50 0" categoryIndex="4" pageIndex="7" /> <!-- grape -->
-        <trigger position="2 50 0" categoryIndex="6" pageIndex="1" /> <!-- animals -->
-        <trigger position="4 50 0" categoryIndex="7" pageIndex="1" /> <!-- forestry -->
-        <trigger position="6 50 0"   categoryIndex="8" pageIndex="1" /> <!-- character creation -->
-        <trigger position="8 50 0"     categoryIndex="8" pageIndex="1" /> <!-- wardrobe -->
-        <trigger position="10 50 0"  categoryIndex="8" pageIndex="2" /> <!-- build mode -->
-        <trigger position="12 50 0"    categoryIndex="8" pageIndex="3" /> <!-- carry objects -->
+ 
+    <helpline filename="$dataS/helpLine.xml" additionalFilename="maps/helpline/helpLine.xml">
+        <trigger position="-14 50 0"   	categoryIndex="1" 			pageIndex="1" /> <!-- making money -->
+        <trigger position="-12 50 0"    categoryIndex="1" 			pageIndex="2" /> <!-- shop -->
+        <trigger position="-10 50 0"   	categoryIndex="2" 			pageIndex="1" /> <!-- buying fields and farming -->
+        <trigger position="-8 50 0"  	categoryIndex="2" 			pageIndex="2" /> <!-- improving yield -->
+        <trigger position="-6 50 0"   	categoryIndex="3" 			pageIndex="1" /> <!-- improving yield -->
+        <trigger position="-4 50 0"   	categoryIndex="4" 			pageIndex="1" /> <!-- grassland -->
+        <trigger position="-2 50 0" 	categoryIndex="4" 			pageIndex="7" /> <!-- grape -->
+        <trigger position="2 50 0" 		categoryIndex="6" 			pageIndex="1" /> <!-- animals -->
+        <trigger position="4 50 0" 		categoryIndex="7" 			pageIndex="1" /> <!-- forestry -->
+        <trigger position="6 50 0"   	categoryIndex="8" 			pageIndex="1" /> <!-- character creation -->
+        <trigger position="8 50 0"     	categoryIndex="8" 			pageIndex="1" /> <!-- wardrobe -->
+        <trigger position="10 50 0"  	categoryIndex="8" 			pageIndex="2" /> <!-- build mode -->
+        <trigger position="12 50 0"    	categoryIndex="8" 			pageIndex="3" /> <!-- carry objects -->
+
+        <trigger position="-8 50 -10" 	categoryId="TemplateMap" 	pageIndex="1" /> <!-- page 1 -->	
+        <trigger position="-6 50 -10" 	categoryId="TemplateMap" 	pageIndex="2" /> <!-- page 2 -->	
+        <trigger position="-4 50 -10" 	categoryId="TemplateMap" 	pageIndex="3" /> <!-- page 3 -->	
+        <trigger position="-2 50 -10" 	categoryId="TemplateMap" 	pageIndex="4" /> <!-- page 4 -->	
+        <trigger position="0 50 -10" 	categoryId="TemplateMap" 	pageIndex="5" /> <!-- page 5 -->	
+        <trigger position="2 50 -10" 	categoryId="TemplateMap" 	pageIndex="6" /> <!-- page 6 -->	
+        <trigger position="4 50 -10" 	categoryId="TemplateMap" 	pageIndex="7" /> <!-- page 7 -->	
+        <trigger position="6 50 -10" 	categoryId="TemplateMap" 	pageIndex="8" /> <!-- page 8 -->	
+        <trigger position="8 50 -10" 	categoryId="TemplateMap" 	pageIndex="9" /> <!-- page 9 -->	
     </helpline>
-    
+ 
     <missionVehicles filename="$dataS/missionVehicles.xml" />
 
     <licensePlates filename="$data/maps/mapFR/licensePlates/licensePlatesFR.xml" />

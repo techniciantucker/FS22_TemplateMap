@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<l10n>
+	<texts>
+		<text name="TemplateMap"					text="Vorlagenkarte"/>
+
+		<text name="TemplateMap_page01"			text="Seite 1"/>
+		<text name="TemplateMap_page01_part01" 	text="Dies ist Seite 1 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page01_part02" 	text="Dies ist Seite 1 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page01_part03" 	text="Dies ist Seite 1 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page02"			text="Seite 2"/>
+		<text name="TemplateMap_page02_part01" 	text="Dies ist Seite 2 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page02_part02" 	text="Dies ist Seite 2 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page02_part03" 	text="Dies ist Seite 2 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page03"			text="Seite 3"/>
+		<text name="TemplateMap_page03_part01" 	text="Dies ist Seite 3 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page03_part02" 	text="Dies ist Seite 3 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page03_part03" 	text="Dies ist Seite 3 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page04"			text="Seite 4"/>
+		<text name="TemplateMap_page04_part01" 	text="Dies ist Seite 4 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page04_part02" 	text="Dies ist Seite 4 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page04_part03" 	text="Dies ist Seite 4 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page05"			text="Seite 5"/>
+		<text name="TemplateMap_page05_part01" 	text="Dies ist Seite 5 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page05_part02" 	text="Dies ist Seite 5 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page05_part03" 	text="Dies ist Seite 5 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page06"			text="Seite 6"/>
+		<text name="TemplateMap_page06_part01" 	text="Dies ist Seite 6 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page06_part02" 	text="Dies ist Seite 6 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page06_part03" 	text="Dies ist Seite 6 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page07"			text="Seite 7"/>
+		<text name="TemplateMap_page07_part01" 	text="Dies ist Seite 7 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page07_part02" 	text="Dies ist Seite 7 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page07_part03" 	text="Dies ist Seite 7 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page08"			text="Seite 8"/>
+		<text name="TemplateMap_page08_part01" 	text="Dies ist Seite 8 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page08_part02" 	text="Dies ist Seite 8 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page08_part03" 	text="Dies ist Seite 8 Absatz 3 der Vorlagenkarte."/>
+
+		<text name="TemplateMap_page09"			text="Seite 9"/>
+		<text name="TemplateMap_page09_part01" 	text="Dies ist Seite 9 Absatz 1 der Vorlagenkarte."/>
+		<text name="TemplateMap_page09_part02" 	text="Dies ist Seite 9 Absatz 2 der Vorlagenkarte."/>
+		<text name="TemplateMap_page09_part03" 	text="Dies ist Seite 9 Absatz 3 der Vorlagenkarte."/>
+	</texts>   		
+</l10n>
