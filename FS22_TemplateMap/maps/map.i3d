@@ -352,7 +352,7 @@
   <Scene>
       <Light name="sun" translation="0 400 0" rotation="-35.393 51.396 20.805" objectMask="67043328" nodeId="34" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.0005" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" pcssLightSize="50" pcssLightDistance="50" pcssDepthBiasFactor="1" pcssMaxPenumbraSize="1" shadowPerspective="true" numShadowMapSplits="5" shadowMapSplitDistance0="20.7462" shadowMapSplitDistance1="46.4883" shadowMapSplitDistance2="120" shadowMapSplitDistance3="314" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
       <TransformGroup name="cameras" visibility="false" nodeId="35">
-        <Camera name="Landscaping" translation="9.72918 128.109 106.141" rotation="-48.0725 1.54789 -3.96683e-06" nodeId="36" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
+        <Camera name="Landscaping" translation="74.48 301.527 399.001" rotation="-37.5307 -6.93028 -8.63585e-06" nodeId="36" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="20"/>
         <Camera name="PDA" translation="0 700 0" rotation="-90 0 0" nodeId="37" fov="60" nearClip="100" farClip="900" orthographic="true" orthographicHeight="2100"/>
       </TransformGroup>
       <TerrainTransformGroup name="terrain" static="true" collisionMask="524255" nodeId="39" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="2048" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occLevel="1" occFaceCount="100" occMaxHausdorffDistance="10" occMaxHausdorffDistanceExtra="10" occMinHorizontalDistance="1" occDistanceWeight="1">
@@ -1136,7 +1136,7 @@
         </TransformGroup>
         <TransformGroup name="splines" nodeId="590">
           <TransformGroup name="trafficSystem" nodeId="591">
-            <Shape shapeId="3" name="road01" visibility="false" nodeId="592"/>
+            <Shape shapeId="3" name="road01" nodeId="592"/>
             <TransformGroup name="parkedCars" nodeId="594">
               <TransformGroup name="parkedCar" lockedgroup="true" translation="-5 50 25" nodeId="595"/>
               <TransformGroup name="parkedCar" lockedgroup="true" translation="0 50 25" rotation="9.21449e-07 0 6.7054e-07" nodeId="596"/>
@@ -1144,12 +1144,12 @@
             </TransformGroup>
           </TransformGroup>
           <TransformGroup name="pedestrianSystem" nodeId="598">
-            <Shape shapeId="4" name="path01" visibility="false" nodeId="599"/>
-            <Shape shapeId="5" name="path02" visibility="false" nodeId="600"/>
+            <Shape shapeId="4" name="path01" nodeId="599"/>
+            <Shape shapeId="5" name="path02" nodeId="600"/>
           </TransformGroup>
           <TransformGroup name="ai" nodeId="601">
-            <Shape shapeId="6" name="farm01" visibility="false" nodeId="602"/>
-            <Shape shapeId="7" name="farm02" visibility="false" nodeId="14173"/>
+            <Shape shapeId="6" name="farm01" nodeId="602"/>
+            <Shape shapeId="7" name="farm02" nodeId="14173"/>
           </TransformGroup>
         </TransformGroup>
         <TransformGroup name="helpLine" nodeId="621">

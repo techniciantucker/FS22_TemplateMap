@@ -6,6 +6,7 @@ Features
 - Add camera for PDA Map
 - Add all NPC's from Giants Maps including german names
 - Add Traffic System with all cars from Giants Maps
+- Add usable german license plate
 - Add german license plate for AI traffic
 - Add AI Splines
 - Add Pedestrian System with all passengers from Giants Maps
@@ -28,9 +29,8 @@ ToDo
 - Increase ground angle (8 to 32)
 - Add all buildable farmhouses
 - Create map border
-- Add usable german license plate
-- Add german license plate for AI traffic
 - Delete cotton and sugar cane from PDA (Only Immersion, they can still be planted)
+- Add german license plate for AI traffic with own letters
 - Import TrainSystem including longer trains and earlier closing of the barriers
 - Add Collectibles
 - Add satellite template map
@@ -60,3 +60,4 @@ Commits
 0015 - Add ingame help menu with own helpline icons
 0016 - Add Pedestrian System with all passengers from Giants Maps
 0017 - Add Traffic System with all cars from Giants Maps, german license plate for AI traffic and AI Splines
+0018 - Add usable german license plate
