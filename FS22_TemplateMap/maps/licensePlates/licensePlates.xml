@@ -1,0 +1,199 @@
+<licensePlates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/mapLicensePlates.xsd">
+    <font name="LICENSE_PLATE_DE" />
+
+    <licensePlate filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.i3d" node="0" type="ELONGATED" width="0.52" height="0.11">
+        <font size="0.075" scaleX="0.85" scaleY="1"/>
+
+        <variations>
+            <variation> <!-- 2 region, 1 letter, 3 numbers -->
+                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.004" numerical="false" alphabetical="true" nextSection="true"/>
+
+                <value node="0|3" posX="0.095"  numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|4" posX="0.152"  numerical="true"  alphabetical="false" />
+                <value node="0|5" posX="0.209"  numerical="true"  alphabetical="false" />
+
+                <value node="0|6" character="_" locked="true"/>
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  posX="-0.063" isStatic="true" position="FRONT"/>
+                <value node="0|10" posX="-0.063" isStatic="true" position="BACK"/>
+                <value node="0|11" isStatic="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+            <variation> <!-- 2 region, 1 letter, 4 numbers -->
+                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.004" numerical="false" alphabetical="true" nextSection="true"/>
+
+                <value node="0|3" posX="0.075"  numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|4" posX="0.125"  numerical="true"  alphabetical="false" />
+                <value node="0|5" posX="0.175"  numerical="true"  alphabetical="false" />
+                <value node="0|6" posX="0.225"  numerical="true"  alphabetical="false" />
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  posX="-0.063" isStatic="true" position="FRONT"/>
+                <value node="0|10" posX="-0.063" isStatic="true" position="BACK"/>
+                <value node="0|11" isStatic="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+
+            <variation> <!-- 2 region, 2 letter, 2 numbers -->
+                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="0.004"  numerical="false" alphabetical="true" nextSection="true"/>
+                <value node="0|3" posX="0.061"  numerical="false" alphabetical="true" />
+
+                <value node="0|4" posX="0.152"  numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|5" posX="0.209"  numerical="true"  alphabetical="false" />
+
+                <value node="0|6" character="_" locked="true"/>
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  posX="-0.063" isStatic="true" position="FRONT"/>
+                <value node="0|10" posX="-0.063" isStatic="true" position="BACK"/>
+                <value node="0|11" isStatic="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+            <variation> <!-- 2 region, 2 letter, 3 numbers -->
+                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.01" numerical="false" alphabetical="true" nextSection="true"/>
+                <value node="0|3" posX="0.047" numerical="false" alphabetical="true" />
+
+                <value node="0|4" posX="0.119" numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|5" posX="0.169" numerical="true"  alphabetical="false" />
+                <value node="0|6" posX="0.219" numerical="true"  alphabetical="false" />
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  posX="-0.066" isStatic="true" position="FRONT"/>
+                <value node="0|10" posX="-0.066" isStatic="true" position="BACK"/>
+                <value node="0|11" isStatic="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+            <variation> <!-- 2 region, 2 letter, 4 numbers -->
+                <value node="0|0" character="Z" posX="-0.181" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" posX="-0.127" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.033" numerical="false" alphabetical="true" nextSection="true"/>
+                <value node="0|3" posX="0.017"  numerical="false" alphabetical="true" />
+
+                <value node="0|4" posX="0.075"  numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|5" posX="0.125"  numerical="true"  alphabetical="false" />
+                <value node="0|6" posX="0.175"  numerical="true"  alphabetical="false" />
+                <value node="0|7" posX="0.225"  numerical="true"  alphabetical="false" />
+
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  posX="-0.08" isStatic="true" position="FRONT"/>
+                <value node="0|10" posX="-0.08" isStatic="true" position="BACK"/>
+                <value node="0|11" isStatic="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+        </variations>
+
+        <frame node="2" widthOffset="0.005" heightOffsetTop="0.005" heightOffsetBot="0.015"/>
+    </licensePlate>
+
+    <licensePlate filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.i3d" node="1" type="SQUARISH" width="0.255" height="0.130">
+        <font size="0.05" scaleX="0.95" scaleY="1"/>
+
+        <variations>
+            <variation> <!-- 2 region, 1 letter, 3 numbers -->
+                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.092"  numerical="false" alphabetical="true" nextSection="true"/>
+
+                <value node="0|3" posX="-0.012"  numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|4" posX="0.026"   numerical="true"  alphabetical="false" />
+                <value node="0|5" posX="0.064"   numerical="true"  alphabetical="false" />
+
+                <value node="0|6" character="_" locked="true"/>
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  locked="true" position="FRONT"/>
+                <value node="0|10" locked="true" position="BACK"/>
+                <value node="0|11" locked="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+
+            <variation> <!-- 2 region, 2 letter, 2 numbers -->
+                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.092"  numerical="false" alphabetical="true" nextSection="true"/>
+                <value node="0|3" posX="-0.056"  numerical="false" alphabetical="true" />
+
+                <value node="0|4" posX="0.026"   numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|5" posX="0.064"   numerical="true"  alphabetical="false" />
+
+                <value node="0|6" character="_" locked="true"/>
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  locked="true" position="FRONT"/>
+                <value node="0|10" locked="true" position="BACK"/>
+                <value node="0|11" locked="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+            <variation> <!-- 2 region, 2 letter, 3 numbers -->
+                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2" posX="-0.092"  numerical="false" alphabetical="true" nextSection="true"/>
+                <value node="0|3" posX="-0.056"  numerical="false" alphabetical="true" />
+
+                <value node="0|4" posX="0.019"   numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|5" posX="0.056"   numerical="true"  alphabetical="false" />
+                <value node="0|6" posX="0.093"   numerical="true"  alphabetical="false" />
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  locked="true" position="FRONT"/>
+                <value node="0|10" locked="true" position="BACK"/>
+                <value node="0|11" locked="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+            <variation> <!-- 2 region, 2 letter, 4 numbers -->
+                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+
+                <value node="0|2"                numerical="false" alphabetical="true" nextSection="true"/>
+                <value node="0|3" posX="-0.065"  numerical="false" alphabetical="true" />
+
+                <value node="0|4" posX="-0.007"  numerical="true"  alphabetical="false" nextSection="true"/>
+                <value node="0|5" posX="0.03"    numerical="true"  alphabetical="false" />
+                <value node="0|6" posX="0.066"   numerical="true"  alphabetical="false" />
+                <value node="0|7" posX="0.102"   numerical="true"  alphabetical="false" />
+                <value node="0|8" character="_" locked="true"/>
+
+                <value node="0|9"  locked="true" position="FRONT"/>
+                <value node="0|10" locked="true" position="BACK"/>
+                <value node="0|11" locked="true" position="ANY"/>
+                <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
+            </variation>
+        </variations>
+
+        <frame node="2" widthOffset="0.005" heightOffsetTop="0.005" heightOffsetBot="0.015"/>
+    </licensePlate>
+
+    <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
+        <colorConfiguration name="$l10n_ui_colorBlack" color="0.0212 0.0212 0.0212" isDefault="true"/>
+        <colorConfiguration name="$l10n_ui_colorGreen" color="0.0012 0.2122 0.0194"/>
+    </colorConfigurations>
+
+    <placement defaultType="both"/>
+</licensePlates>

@@ -60,7 +60,7 @@
  
     <missionVehicles filename="$dataS/missionVehicles.xml" />
 
-    <licensePlates filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.xml" />
+    <licensePlates filename="maps/licensePlates/licensePlates.xml" />
     
     <gameplayHints filename="$dataS/gameplayHints.xml" />
 
