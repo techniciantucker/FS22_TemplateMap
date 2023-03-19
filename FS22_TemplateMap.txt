@@ -6,8 +6,8 @@ Features
 - Add camera for PDA Map
 - Add all NPC's from Giants Maps including german names
 - Add Traffic System with all cars from Giants Maps
-- Add usable german license plate with locked region letters ("ZA") und additional variations (1 letter, 4 numbers)
-- Add german license plate for AI traffic
+- Add usable german license plate with locked region letters ("ZA"), own region symbol and additional variations (1 letter, 4 numbers)
+- Add german license plate for AI traffic with region letters ("ZA") and own region symbol
 - Add AI Splines
 - Add Pedestrian System with all passengers from Giants Maps
 - Add ingame helpline icons
@@ -62,3 +62,4 @@ Commits
 0017 - Add Traffic System with all cars from Giants Maps, german license plate for AI traffic and AI Splines
 0018 - Add usable german license plate
 0019 - Add usable german license plate with locked region letters ("ZA") und additional variations (1 letter, 4 numbers)
+0020 - Add german license plate with region letters ("ZA") and own region symbol for own vehicles and AI traffic

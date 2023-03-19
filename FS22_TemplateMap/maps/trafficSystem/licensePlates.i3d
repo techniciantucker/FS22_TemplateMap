@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="licensePlates" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="9.0.3"/>
+  </Asset>
+
+  <Files>
+    <File fileId="4" filename="$data/shaders/vehicleShader.xml"/>
+    <File fileId="2" filename="$data/shared/default_normal.png"/>
+    <File fileId="9" filename="$data/shared/licensePlates/licensePlates_normal.png"/>
+    <File fileId="3" filename="$data/shared/licensePlates/licensePlates_vmask.png"/>
+    <File fileId="1" filename="licensePlates_diffuse.png"/>
+  </Files>
+
+
+  <Materials>
+    <Material name="licensePlatesDE_mat" materialId="4" customShaderId="4" customShaderVariation="Decal">
+      <Texture fileId="1"/>
+      <Normalmap fileId="2"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="0 0 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+    </Material>
+    <Material name="licensePlatesDE_mat9" materialId="5" diffuseColor="0.494118 0.494118 0.494118 1" customShaderId="4" customShaderVariation="colorMask">
+      <Normalmap fileId="9"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="RDT" value="0 0 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0 0.0331 0.3186 0"/>
+      <CustomParameter name="colorMat1" value="1 1 1 0"/>
+      <CustomParameter name="colorMat2" value="0 0 0 0"/>
+      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
+      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
+      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="licensePlates.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+      <TransformGroup name="rectangle" rotation="-90 0 0" nodeId="17">
+        <TransformGroup name="symbols" rotation="90 0 0" nodeId="18">
+          <TransformGroup name="letter01" translation="-0.216102 0.002 0.000475152" rotation="-90 0 0" nodeId="19"/>
+          <TransformGroup name="letter02" translation="-0.162088 0.002 0.000475152" rotation="-90 0 0" nodeId="20"/>
+          <TransformGroup name="letter03" translation="-0.108074 0.002 0.000475152" rotation="-90 0 0" nodeId="21"/>
+          <TransformGroup name="letter04" translation="-0.0540594 0.002 0.000475152" rotation="-90 0 0" nodeId="22"/>
+          <TransformGroup name="letter05" translation="-4.50976e-05 0.002 0.000475152" rotation="-90 0 0" nodeId="23"/>
+          <TransformGroup name="letter06" translation="0.0539692 0.002 0.000475152" rotation="-90 0 0" nodeId="24"/>
+          <TransformGroup name="letter07" translation="0.107983 0.002 0.000475152" rotation="-90 0 0" nodeId="25"/>
+          <TransformGroup name="letter08" translation="0.161998 0.002 0.000475152" rotation="-90 0 0" nodeId="26"/>
+          <TransformGroup name="letter09" translation="0.215911 0.002 0.000475152" rotation="-90 0 0" nodeId="27"/>
+          <Shape shapeId="1" name="additionalDecals_front" translation="0 0 0.00500385" clipDistance="30" nodeId="28" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+          <Shape shapeId="2" name="additionalDecals_back" translation="0 0 0.00500385" clipDistance="30" nodeId="29" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+          <Shape shapeId="3" name="decals" translation="-0.232886 0.00193765 -0.00106217" clipDistance="30" nodeId="30" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+        </TransformGroup>
+        <Shape shapeId="4" name="rectanglePlate" translation="0 1.91375e-19 0.000861875" rotation="90 0 0" clipDistance="300" nodeId="31" materialIds="5" castsShadows="true" receiveShadows="true"/>
+        <Shape shapeId="5" name="rectangleFrame" rotation="90 0 0" clipDistance="300" nodeId="32" materialIds="5" castsShadows="true" receiveShadows="true"/>
+      </TransformGroup>
+      <TransformGroup name="square" translation="0 -3.41893e-17 0.2" rotation="-90 0 0" nodeId="33">
+        <TransformGroup name="symbols" nodeId="34">
+          <TransformGroup name="letter01" translation="-0.0465497 0.0303595 0.00194242" nodeId="35"/>
+          <TransformGroup name="letter02" translation="-0.00595289 0.0303595 0.00194242" nodeId="36"/>
+          <TransformGroup name="letter03" translation="-0.101442 -0.030803 0.00194242" nodeId="37"/>
+          <TransformGroup name="letter04" translation="-0.0608455 -0.030803 0.00194242" nodeId="38"/>
+          <TransformGroup name="letter05" translation="-0.0202487 -0.030803 0.00194242" nodeId="39"/>
+          <TransformGroup name="letter06" translation="0.020348 -0.030803 0.00194242" nodeId="40"/>
+          <TransformGroup name="letter07" translation="0.0609448 -0.030803 0.00194242" nodeId="41"/>
+          <TransformGroup name="letter08" translation="0.101542 -0.030803 0.00194242" nodeId="42"/>
+          <TransformGroup name="letter09" translation="0.142187 -0.030803 0.00194242" nodeId="43"/>
+          <Shape shapeId="6" name="additionalDecals_front" translation="0.0754313 0.0316272 0.00199718" rotation="90 0 0" clipDistance="30" nodeId="44" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+          <Shape shapeId="7" name="additionalDecals_back" translation="0.0775922 0.0316272 0.00199718" rotation="90 0 0" clipDistance="30" nodeId="45" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+          <Shape shapeId="8" name="decals" translation="-0.101443 0.0310767 0.00199718" rotation="90 0 0" clipDistance="30" nodeId="46" materialIds="4" castsShadows="true" receiveShadows="true" decalLayer="1"/>
+        </TransformGroup>
+        <Shape shapeId="9" name="squarePlate" translation="0 0.00500381 0.000765405" rotation="90 0 0" clipDistance="300" nodeId="47" materialIds="5" castsShadows="true" receiveShadows="true"/>
+        <Shape shapeId="10" name="squareFrame" translation="0 4.30362e-19 0.00193818" rotation="90 0 0" clipDistance="300" nodeId="48" materialIds="5" castsShadows="true" receiveShadows="true"/>
+      </TransformGroup>
+  </Scene>
+
+</i3D>

@@ -1,7 +1,7 @@
 <licensePlates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/mapLicensePlates.xsd">
     <font name="LICENSE_PLATE_DE" />
 
-    <licensePlate filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.i3d" node="0" type="ELONGATED" width="0.52" height="0.11">
+    <licensePlate filename="maps/trafficSystem/licensePlates.i3d" node="0" type="ELONGATED" width="0.52" height="0.11">
         <font size="0.075" scaleX="0.85" scaleY="1"/>
 
         <variations>
@@ -106,7 +106,7 @@
         <frame node="2" widthOffset="0.005" heightOffsetTop="0.005" heightOffsetBot="0.015"/>
     </licensePlate>
 
-    <licensePlate filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.i3d" node="1" type="SQUARISH" width="0.255" height="0.130">
+    <licensePlate filename="maps/trafficSystem/licensePlates.i3d" node="1" type="SQUARISH" width="0.255" height="0.130">
         <font size="0.05" scaleX="0.95" scaleY="1"/>
 
         <variations>

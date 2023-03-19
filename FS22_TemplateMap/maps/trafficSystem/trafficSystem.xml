@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 
-<trafficSystem licensePlates="$data/maps/mapAlpine/licensePlates/aiLicensePlatesDE.i3d">
+<trafficSystem licensePlates="aiLicensePlates.i3d">
     <vehicles>
         <vehicle filename="$data/vehicles/cars/alpine/vehicle_01/vehicle_01.xml" probability="1" probabilityParked="1"/>
         <vehicle filename="$data/vehicles/cars/alpine/vehicle_02/vehicle_02.xml" probability="1" probabilityParked="1"/>
