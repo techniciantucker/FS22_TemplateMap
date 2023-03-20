@@ -17,18 +17,18 @@ This is a Template Map with standard size for Farming Simulator 2022.
 - Add german license plate for AI traffic with region letters ("ZA") and own region symbol
 - Add AI Splines
 - Add Pedestrian System with all passengers from Giants Maps
+- Add all trees from Giants Maps
 - Add ingame helpline icons
 - Add ingame help menu with own helpline icons
+- Add human dummy for different views
 - Add icon and preview pictures
 
 ##
 ### Upcoming Features
-- Add human dummy for different views
 - Improve and delete references to default Giants Mod MapFR
 - Add Platinum Extension support including sprayable trees and forst missions
 - Create new settings for FoliageCreator
 - Add all paintable textures from Giants Maps
-- Add all trees from Giants Maps
 - Add all paintable meadow, grass, foliages and bushes from Giants Maps
 - Add additional paintable deco foliages from Giants Editor including store pictures
 - Add additional paintable ground foliages from Giants Editor including store pictures
