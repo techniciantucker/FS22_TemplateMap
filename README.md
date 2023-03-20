@@ -1,4 +1,11 @@
-Features
+# FS22_TemplateMap
+This is a Template Map with standard size for Farming Simulator 2022.
+
+### Author: PowerMaik
+### Version: 0.0.0.1
+
+##
+### Features
 - Increase farmland limit to 255
 - Import script FieldDimension
 - Import script FoliageCreator
@@ -14,8 +21,8 @@ Features
 - Add ingame help menu with own helpline icons
 - Add icon and preview pictures
 
-
-ToDo
+##
+### Upcoming Features
 - Add human dummy for different views
 - Improve and delete references to default Giants Mod MapFR
 - Add Platinum Extension support including sprayable trees and forst missions
@@ -36,30 +43,12 @@ ToDo
 - Add satellite template map
 - Improve background sounds
 
-
-Bugs
+##
+### Known Bugs
 - Improve map border
 - Bugfix: DIRT_DARK_FR texture glows when drawing in Giants Editor
 
-
-Commits
-0001 - Create Template Map
-0002 - Update text file
-0003 - Import ingame helpline icons
-0004 - Create icon and preview pictures
-0005 - Create a clear folder structure (Part 1)
-0006 - Create a clear folder structure (Part 2)
-0007 - Create farmland
-0008 - Create camera for PDA Map
-0009 - Change Moddesc Version
-0010 - Increase farmland limit to 255
-0011 - Import all NPC's from Giants Maps including german names
-0012 - Import script FieldDimension
-0013 - Import script FoliageCreator
-0014 - Add InfoLayer SoilMap for Precision Farming DLC
-0015 - Add ingame help menu with own helpline icons
-0016 - Add Pedestrian System with all passengers from Giants Maps
-0017 - Add Traffic System with all cars from Giants Maps, german license plate for AI traffic and AI Splines
-0018 - Add usable german license plate
-0019 - Add usable german license plate with locked region letters ("ZA") und additional variations (1 letter, 4 numbers)
-0020 - Add german license plate with region letters ("ZA") and own region symbol for own vehicles and AI traffic
+##
+### Changelog after Release
+#### Version 1.0.0.0
+- 
