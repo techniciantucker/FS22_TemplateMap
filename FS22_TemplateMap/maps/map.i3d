@@ -2241,7 +2241,7 @@
     </UserAttribute>
     <UserAttribute nodeId="822">
       <Attribute name="onCreate" type="scriptCallback" value="TrafficSystem.onCreate"/>
-      <Attribute name="xmlFile" type="string" value="maps/trafficSystem/trafficSystem.xml"/>
+      <Attribute name="xmlFile" type="string" value="maps/xml/trafficSystem.xml"/>
     </UserAttribute>
     <UserAttribute nodeId="823">
       <Attribute name="maxSpeedScale" type="float" value="1"/>
@@ -2249,7 +2249,7 @@
     </UserAttribute>
     <UserAttribute nodeId="829">
       <Attribute name="onCreate" type="scriptCallback" value="PedestrianSystem.onCreate"/>
-      <Attribute name="xmlFile" type="string" value="maps/trafficSystem/pedestrianSystem.xml"/>
+      <Attribute name="xmlFile" type="string" value="maps/xml/pedestrianSystem.xml"/>
     </UserAttribute>
     <UserAttribute nodeId="830">
       <Attribute name="density" type="float" value="0.1"/>
