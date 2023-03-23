@@ -1,13 +1,13 @@
 <licensePlates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/mapLicensePlates.xsd">
     <font name="LICENSE_PLATE_DE" />
 
-    <licensePlate filename="maps/licensePlates/licensePlates.i3d" node="0" type="ELONGATED" width="0.52" height="0.11">
+    <licensePlate filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.i3d" node="0" type="ELONGATED" width="0.52" height="0.11">
         <font size="0.075" scaleX="0.85" scaleY="1"/>
 
         <variations>
             <variation> <!-- 2 region, 1 letter, 3 numbers -->
-                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.004" numerical="false" alphabetical="true" nextSection="true"/>
 
@@ -25,8 +25,8 @@
                 <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
             </variation>
             <variation> <!-- 2 region, 1 letter, 4 numbers -->
-                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.004" numerical="false" alphabetical="true" nextSection="true"/>
 
@@ -45,8 +45,8 @@
             </variation>
 
             <variation> <!-- 2 region, 2 letter, 2 numbers -->
-                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="0.004"  numerical="false" alphabetical="true" nextSection="true"/>
                 <value node="0|3" posX="0.061"  numerical="false" alphabetical="true" />
@@ -64,8 +64,8 @@
                 <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
             </variation>
             <variation> <!-- 2 region, 2 letter, 3 numbers -->
-                <value node="0|0" character="Z" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" posX="-0.178" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" posX="-0.123" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.01" numerical="false" alphabetical="true" nextSection="true"/>
                 <value node="0|3" posX="0.047" numerical="false" alphabetical="true" />
@@ -83,8 +83,8 @@
                 <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
             </variation>
             <variation> <!-- 2 region, 2 letter, 4 numbers -->
-                <value node="0|0" character="Z" posX="-0.181" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" posX="-0.127" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" posX="-0.181" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" posX="-0.127" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.033" numerical="false" alphabetical="true" nextSection="true"/>
                 <value node="0|3" posX="0.017"  numerical="false" alphabetical="true" />
@@ -106,13 +106,13 @@
         <frame node="2" widthOffset="0.005" heightOffsetTop="0.005" heightOffsetBot="0.015"/>
     </licensePlate>
 
-    <licensePlate filename="maps/licensePlates/licensePlates.i3d" node="1" type="SQUARISH" width="0.255" height="0.130">
+    <licensePlate filename="$data/maps/mapAlpine/licensePlates/licensePlatesDE.i3d" node="1" type="SQUARISH" width="0.255" height="0.130">
         <font size="0.05" scaleX="0.95" scaleY="1"/>
 
         <variations>
             <variation> <!-- 2 region, 1 letter, 3 numbers -->
-                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.092"  numerical="false" alphabetical="true" nextSection="true"/>
 
@@ -131,8 +131,8 @@
             </variation>
 
             <variation> <!-- 2 region, 2 letter, 2 numbers -->
-                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.092"  numerical="false" alphabetical="true" nextSection="true"/>
                 <value node="0|3" posX="-0.056"  numerical="false" alphabetical="true" />
@@ -150,8 +150,8 @@
                 <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
             </variation>
             <variation> <!-- 2 region, 2 letter, 3 numbers -->
-                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2" posX="-0.092"  numerical="false" alphabetical="true" nextSection="true"/>
                 <value node="0|3" posX="-0.056"  numerical="false" alphabetical="true" />
@@ -168,8 +168,8 @@
                 <color shaderParameter="colorMat0" color="0.0123 0.1413 0.5776"/>
             </variation>
             <variation> <!-- 2 region, 2 letter, 4 numbers -->
-                <value node="0|0" character="Z" numerical="false" alphabetical="true" locked="true"/>
-                <value node="0|1" character="A" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|0" character="E" numerical="false" alphabetical="true" locked="true"/>
+                <value node="0|1" character="R" numerical="false" alphabetical="true" locked="true"/>
 
                 <value node="0|2"                numerical="false" alphabetical="true" nextSection="true"/>
                 <value node="0|3" posX="-0.065"  numerical="false" alphabetical="true" />

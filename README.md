@@ -13,8 +13,7 @@ This is a Template Map with standard size for Farming Simulator 2022.
 - Add camera for PDA Map
 - Add all NPC's from Giants Maps including german names
 - Add Traffic System with all cars from Giants Maps
-- Add usable german license plate with locked region letters ("ZA"), own region symbol and additional variations (1 letter, 4 numbers)
-- Add german license plate for AI traffic with region letters ("ZA") and own region symbol
+- Add usable german license plate with locked region letters ("ER"), own region symbol and additional variations (1 letter, 4 numbers)
 - Add AI Splines
 - Add Pedestrian System with all passengers from Giants Maps
 - Add all trees from Giants Maps
@@ -37,7 +36,6 @@ This is a Template Map with standard size for Farming Simulator 2022.
 - Add all buildable farmhouses
 - Create map border
 - Delete cotton and sugar cane from PDA (Only Immersion, they can still be planted)
-- Add german license plate for AI traffic with own letters
 - Import TrainSystem including longer trains and earlier closing of the barriers
 - Add Collectibles
 - Add satellite template map
